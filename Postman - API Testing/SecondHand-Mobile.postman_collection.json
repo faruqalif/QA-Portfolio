@@ -1,0 +1,746 @@
+{
+	"info": {
+		"_postman_id": "c47b72ef-1f5b-408f-9fec-3c05fdbe7c65",
+		"name": "SecondHand-Mobile",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33115904"
+	},
+	"item": [
+		{
+			"name": "RegisterV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {}
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "full_name",
+							"value": "vvvvvvva9",
+							"type": "text"
+						},
+						{
+							"key": "email",
+							"value": "caz1sxs1zx15@gmail.com",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "ravenclaww",
+							"type": "text"
+						},
+						{
+							"key": "phone_number",
+							"value": "0830180318",
+							"type": "text"
+						},
+						{
+							"key": "address",
+							"value": "Lbg",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": []
+						},
+						{
+							"key": "city",
+							"value": "Padang",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{base_url_mobile}}/auth/register",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"auth",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "LoginV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.variables.get(\"variable_key\");\r",
+							"pm.test(\"Response status code is 200\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Email is in a valid format\", function () {\r",
+							"    const responseData = pm.response.json();\r",
+							"    \r",
+							"    pm.expect(responseData.email).to.be.a('string').and.to.match(/^[\\w-]+(\\.[\\w-]+)*@[\\w-]+(\\.[\\w-]+)*(\\.[a-z]{2,})$/, \"Email should be in a valid format\");\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Session object is present and contains a non-empty token\", function () {\r",
+							"  const responseData = pm.response.json();\r",
+							"  \r",
+							"  pm.expect(responseData).to.have.property('access_token');\r",
+							"  pm.expect(responseData.access_token).to.exist.and.to.have.lengthOf.at.least(1, \"Token should not be empty\");\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"faruq11@gmail.com\",\r\n  \"password\": \"faruq11\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url_mobile}}/auth/login",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"auth",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create ProductV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {}
+			},
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZhcnVxMTFAZ21haWwuY29tIiwiaWF0IjoxNzEyMjYxNzc0fQ.C7pvfqFzrhr1QuzKesVk5V_6j0JUyTNqLvKtB1Y5u5g",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "access_token",
+							"type": "string"
+						},
+						{
+							"key": "in",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "name",
+							"value": "Sepatu999d",
+							"type": "text"
+						},
+						{
+							"key": "description",
+							"value": "Sepathu",
+							"type": "text"
+						},
+						{
+							"key": "base_price",
+							"value": "2000000",
+							"type": "text"
+						},
+						{
+							"key": "category_ids",
+							"value": "5,7,9,12,14",
+							"type": "text"
+						},
+						{
+							"key": "location",
+							"value": "Padang",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/C:/Users/farru/Downloads/Pictures/pmp.png"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{base_url_mobile}}/seller/product",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"seller",
+						"product"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List ProductV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZhcnVxMTFAZ21haWwuY29tIiwiaWF0IjoxNzEyMjYxNzc0fQ.C7pvfqFzrhr1QuzKesVk5V_6j0JUyTNqLvKtB1Y5u5g",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "access_token",
+							"type": "string"
+						},
+						{
+							"key": "in",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_mobile}}/seller/product",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"seller",
+						"product"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get ProductV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZhcnVxMTFAZ21haWwuY29tIiwiaWF0IjoxNzEyMjYxNzc0fQ.C7pvfqFzrhr1QuzKesVk5V_6j0JUyTNqLvKtB1Y5u5g",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "access_token",
+							"type": "string"
+						},
+						{
+							"key": "in",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_mobile}}/seller/product/118540",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"seller",
+						"product",
+						"118540"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete ProductV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZhcnVxMTFAZ21haWwuY29tIiwiaWF0IjoxNzEyMjYxNzc0fQ.C7pvfqFzrhr1QuzKesVk5V_6j0JUyTNqLvKtB1Y5u5g",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "access_token",
+							"type": "string"
+						},
+						{
+							"key": "in",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_mobile}}/seller/product/121208",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"seller",
+						"product",
+						"121208"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Fetch ProductsV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_mobile}}/buyer/product?status=&category_id=1&search=komputer&page=1&per_page=5",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"buyer",
+						"product"
+					],
+					"query": [
+						{
+							"key": "status",
+							"value": ""
+						},
+						{
+							"key": "category_id",
+							"value": "1"
+						},
+						{
+							"key": "search",
+							"value": "komputer"
+						},
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "per_page",
+							"value": "5"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Fetch Product by idV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_mobile}}/buyer/product/44848",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"buyer",
+						"product",
+						"44848"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create OrderV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZhcnVxMTFAZ21haWwuY29tIiwiaWF0IjoxNzEyMjYxNzc0fQ.C7pvfqFzrhr1QuzKesVk5V_6j0JUyTNqLvKtB1Y5u5g",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "access_token",
+							"type": "string"
+						},
+						{
+							"key": "in",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"product_id\": 64334,\r\n  \"bid_price\": 1000000\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url_mobile}}/buyer/order",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"buyer",
+						"order"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Fetch OrdersV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZhcnVxMTFAZ21haWwuY29tIiwiaWF0IjoxNzEyMjYxNzc0fQ.C7pvfqFzrhr1QuzKesVk5V_6j0JUyTNqLvKtB1Y5u5g",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "access_token",
+							"type": "string"
+						},
+						{
+							"key": "in",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_mobile}}/buyer/order",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"buyer",
+						"order"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Fetch Order by idV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZhcnVxMTFAZ21haWwuY29tIiwiaWF0IjoxNzEyMjYxNzc0fQ.C7pvfqFzrhr1QuzKesVk5V_6j0JUyTNqLvKtB1Y5u5g",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "access_token",
+							"type": "string"
+						},
+						{
+							"key": "in",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_mobile}}/buyer/order/62582",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"buyer",
+						"order",
+						"62582"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Edit Order by idV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZhcnVxMTFAZ21haWwuY29tIiwiaWF0IjoxNzEyMjYxNzc0fQ.C7pvfqFzrhr1QuzKesVk5V_6j0JUyTNqLvKtB1Y5u5g",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "access_token",
+							"type": "string"
+						},
+						{
+							"key": "in",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"bid_price\": 100009\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url_mobile}}/buyer/order/62582",
+					"host": [
+						"{{base_url_mobile}}"
+					],
+					"path": [
+						"buyer",
+						"order",
+						"62582"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

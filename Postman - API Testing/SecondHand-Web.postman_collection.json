@@ -1,0 +1,804 @@
+{
+	"info": {
+		"_postman_id": "e8aa7326-a57b-4cae-9742-543a0d2c9e8f",
+		"name": "SecondHand-Web",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33115904"
+	},
+	"item": [
+		{
+			"name": "RegistrationV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"connection": true,
+					"accept": true,
+					"accept-encoding": true,
+					"user-agent": true
+				},
+				"disableCookies": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"user\": {\r\n    \"name\": \"SkywraMagez\",\r\n    \"email\": \"szxz22sxz22222@predovic-douglas.com\",\r\n    \"password\": \"123456\"\r\n  }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url_web}}/users.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"users.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "LoginV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.variables.get(\"variable_key\");\r",
+							"pm.test(\"Response status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Email is in a valid format\", function () {\r",
+							"    const responseData = pm.response.json();\r",
+							"    \r",
+							"    pm.expect(responseData.user.email).to.be.a('string').and.to.match(/^[\\w-]+(\\.[\\w-]+)*@[\\w-]+(\\.[\\w-]+)*(\\.[a-z]{2,})$/, \"Email should be in a valid format\");\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Session object is present and contains a non-empty token\", function () {\r",
+							"  const responseData = pm.response.json();\r",
+							"  \r",
+							"  pm.expect(responseData).to.have.property('session');\r",
+							"  pm.expect(responseData.session.token).to.exist.and.to.have.lengthOf.at.least(1, \"Token should not be empty\");\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"user\" : {\r\n        \"email\" : \"ravenclaww@gmail.com\",\r\n        \"password\" : \"ravenclaww\"\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url_web}}/users/sign_in.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"users",
+						"sign_in.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List CategoriesV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_web}}/categories.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"categories.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get CategoryV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {},
+				"disableCookies": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "{{base_url_web}}/categories/1.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"categories",
+						"1.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update ProfileV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNzM5MjEiLCJzY3AiOiJ1c2VyIiwiYXVkIjpudWxsLCJpYXQiOjE3MTI0MzgxNDQsImV4cCI6MTcxMzY0Nzc0NCwianRpIjoiZWFhNDc3MzAtMGU4YS00MmU4LTkwNWUtNjYwMWUxMTA2MjNjIn0.fa4g6itMSq4XJ1SgKimxPNT4uepNjcwAgju0zXgFhg4",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "user[name]",
+							"value": "ravenclaww2",
+							"type": "text"
+						},
+						{
+							"key": "user[phone_number]",
+							"value": "08080808",
+							"type": "text"
+						},
+						{
+							"key": "user[address]",
+							"value": "oo78oo",
+							"type": "text"
+						},
+						{
+							"key": "user[city_id]",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "user[avatar]",
+							"type": "file",
+							"src": "postman-cloud:///1eef35a2-7dc4-4fa0-ba69-22d641ccf53d"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{base_url_web}}/profiles.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"profiles.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create OfferV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNzM5MjEiLCJzY3AiOiJ1c2VyIiwiYXVkIjpudWxsLCJpYXQiOjE3MTIyNjQ3NDMsImV4cCI6MTcxMzQ3NDM0MywianRpIjoiY2JhYzU4OTgtOTU2MS00NTMyLWFiNmUtNjM0OTI0NWM3NzAyIn0.6Nwvpuq7Id2ARSbKFLOy6gIF7H-HGS9zuxahnKO2KUQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"offer\": {\r\n    \"price\": 1999,\r\n    \"to_id\": 1,\r\n    \"product_id\": 106733\r\n  }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url_web}}/offers.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"offers.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List OffersV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true,
+				"disableCookies": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNzM5MjEiLCJzY3AiOiJ1c2VyIiwiYXVkIjpudWxsLCJpYXQiOjE3MTI0MzgxNDQsImV4cCI6MTcxMzY0Nzc0NCwianRpIjoiZWFhNDc3MzAtMGU4YS00MmU4LTkwNWUtNjYwMWUxMTA2MjNjIn0.fa4g6itMSq4XJ1SgKimxPNT4uepNjcwAgju0zXgFhg4",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"url": {
+					"raw": "{{base_url_web}}/users/167942/offers.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"users",
+						"167942",
+						"offers.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update OfferV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNzM5MjEiLCJzY3AiOiJ1c2VyIiwiYXVkIjpudWxsLCJpYXQiOjE3MTIzMTU3NDksImV4cCI6MTcxMzUyNTM0OSwianRpIjoiNzkzZDE3MTQtODNiYi00ZjliLTg0YjQtMDQ4MzIxOGQzMGIyIn0.lDLjMXV-BYKpirZhTwoMvI85SiJG-QOgtYzHBwGHvxI",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"offer\": {\r\n    \"status\": \"accepted\"\r\n  }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url_web}}/offers/92160.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"offers",
+						"92160.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create ProductV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNzM5MjEiLCJzY3AiOiJ1c2VyIiwiYXVkIjpudWxsLCJpYXQiOjE3MTIzMjc2NDcsImV4cCI6MTcxMzUzNzI0NywianRpIjoiMTBmNmNhNWQtYTYxYi00MzI5LTg1MTMtNjM4MmE0MTEzZTZkIn0.iF1uiuBj2LwKHDNoNRpAieSRO8MKrxg3RzOuavt3ikE",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "product[name]",
+							"value": "Laptop Gaming",
+							"type": "text"
+						},
+						{
+							"key": "product[price]",
+							"value": "20000000",
+							"type": "text"
+						},
+						{
+							"key": "product[description]",
+							"value": "Laptop Gaming",
+							"type": "text"
+						},
+						{
+							"key": "product[category_id]",
+							"value": "4",
+							"type": "text"
+						},
+						{
+							"key": "product[status]",
+							"value": "published",
+							"type": "text"
+						},
+						{
+							"key": "product[images][]",
+							"type": "file",
+							"src": "postman-cloud:///1eef35a2-7dc4-4fa0-ba69-22d641ccf53d"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{base_url_web}}/products.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"products.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List ProductsV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_web}}/products.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"products.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get ProductV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_web}}/products/27.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"products",
+						"27.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update ProductV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNzM5MjEiLCJzY3AiOiJ1c2VyIiwiYXVkIjpudWxsLCJpYXQiOjE3MTIyNTM0OTYsImV4cCI6MTcxMzQ2MzA5NiwianRpIjoiYmEwNzEwMTMtMTc3ZS00YWVhLTg1ZGQtY2NkNTg2ZGE2Y2UwIn0.-ozmUV4PcN43fTWLguUHcZE43wNvwaddSm07wAROTiQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "product[name]",
+							"value": "Laptop Gaming",
+							"type": "text"
+						},
+						{
+							"key": "product[price]",
+							"value": "20000099",
+							"type": "text"
+						},
+						{
+							"key": "product[description]",
+							"value": "Laptop Gaming",
+							"type": "text"
+						},
+						{
+							"key": "product[category_id]",
+							"value": "4",
+							"type": "text"
+						},
+						{
+							"key": "product[status]",
+							"value": "published",
+							"type": "text"
+						},
+						{
+							"key": "product[images][]",
+							"type": "file",
+							"src": "/C:/Users/farru/Downloads/Pictures/HD wallpaper_ digital art, men, city, futuristic, night, neon, science fiction.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{base_url_web}}/products/106837.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"products",
+						"106837.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete ProductV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 204\", function () {\r",
+							"    pm.response.to.have.status(204);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNzM5MjEiLCJzY3AiOiJ1c2VyIiwiYXVkIjpudWxsLCJpYXQiOjE3MTIyNTM0OTYsImV4cCI6MTcxMzQ2MzA5NiwianRpIjoiYmEwNzEwMTMtMTc3ZS00YWVhLTg1ZGQtY2NkNTg2ZGE2Y2UwIn0.-ozmUV4PcN43fTWLguUHcZE43wNvwaddSm07wAROTiQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_web}}/products/112652.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"products",
+						"112652.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get ProfileV",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNzM5MjEiLCJzY3AiOiJ1c2VyIiwiYXVkIjpudWxsLCJpYXQiOjE3MTI0MzgxNDQsImV4cCI6MTcxMzY0Nzc0NCwianRpIjoiZWFhNDc3MzAtMGU4YS00MmU4LTkwNWUtNjYwMWUxMTA2MjNjIn0.fa4g6itMSq4XJ1SgKimxPNT4uepNjcwAgju0zXgFhg4",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url_web}}/profiles.json",
+					"host": [
+						"{{base_url_web}}"
+					],
+					"path": [
+						"profiles.json"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

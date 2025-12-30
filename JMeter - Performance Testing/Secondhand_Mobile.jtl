@@ -1,0 +1,1201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1712512763587,1405,POST Register,201,Created,API Group 1-6,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,1398,0,104
+1712512763787,1205,POST Register,201,Created,API Group 1-8,text,true,,582,1379,10,10,https://market-final-project.binaracademy.org/auth/register,1203,0,66
+1712512763209,1782,POST Register,201,Created,API Group 1-1,text,true,,582,1355,10,10,https://market-final-project.binaracademy.org/auth/register,1776,0,467
+1712512763886,1106,POST Register,201,Created,API Group 1-9,text,true,,582,1387,10,10,https://market-final-project.binaracademy.org/auth/register,1106,0,71
+1712512763210,1782,POST Register,201,Created,API Group 1-2,text,true,,582,1339,10,10,https://market-final-project.binaracademy.org/auth/register,1775,0,464
+1712512763523,1469,POST Register,201,Created,API Group 1-5,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,1466,0,150
+1712512763694,1298,POST Register,201,Created,API Group 1-7,text,true,,582,1347,10,10,https://market-final-project.binaracademy.org/auth/register,1296,0,77
+1712512763396,1596,POST Register,201,Created,API Group 1-4,text,true,,582,1339,10,10,https://market-final-project.binaracademy.org/auth/register,1589,0,278
+1712512763987,1007,POST Register,201,Created,API Group 1-10,text,true,,582,1379,10,10,https://market-final-project.binaracademy.org/auth/register,1007,0,71
+1712512763306,1686,POST Register,201,Created,API Group 1-3,text,true,,582,1339,10,10,https://market-final-project.binaracademy.org/auth/register,1679,0,367
+1712512765033,430,POST Login,201,Created,API Group 1-8,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,430,0,0
+1712512765032,509,POST Login,201,Created,API Group 1-6,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,509,0,0
+1712512765033,588,POST Login,201,Created,API Group 1-1,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,588,0,0
+1712512765033,670,POST Login,201,Created,API Group 1-3,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,670,0,0
+1712512765032,749,POST Login,201,Created,API Group 1-9,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,749,0,0
+1712512765033,830,POST Login,201,Created,API Group 1-5,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,830,0,0
+1712512765033,911,POST Login,201,Created,API Group 1-10,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,911,0,0
+1712512765033,1008,POST Login,201,Created,API Group 1-7,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1008,0,0
+1712512765033,1088,POST Login,201,Created,API Group 1-4,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1088,0,0
+1712512765032,1169,POST Login,201,Created,API Group 1-2,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1169,0,0
+1712512765622,4451,POST  Create Product,201,Created,API Group 1-1,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,4450,0,0
+1712512765542,4532,POST  Create Product,201,Created,API Group 1-6,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,4532,0,0
+1712512765464,4731,POST  Create Product,201,Created,API Group 1-8,text,true,,665,26057,10,10,https://market-final-project.binaracademy.org/seller/product,4731,0,0
+1712512765704,5299,POST  Create Product,201,Created,API Group 1-3,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,5299,0,0
+1712512765945,5090,POST  Create Product,201,Created,API Group 1-10,text,true,,665,26017,10,10,https://market-final-project.binaracademy.org/seller/product,5090,0,0
+1712512765782,5254,POST  Create Product,201,Created,API Group 1-9,text,true,,665,26001,10,10,https://market-final-project.binaracademy.org/seller/product,5254,0,0
+1712512765864,5174,POST  Create Product,201,Created,API Group 1-5,text,true,,665,26017,10,10,https://market-final-project.binaracademy.org/seller/product,5174,0,0
+1712512766042,5000,POST  Create Product,201,Created,API Group 1-7,text,true,,665,26033,10,10,https://market-final-project.binaracademy.org/seller/product,5000,0,0
+1712512766123,4924,POST  Create Product,201,Created,API Group 1-4,text,true,,665,26017,10,10,https://market-final-project.binaracademy.org/seller/product,4924,0,0
+1712512766202,4848,POST  Create Product,201,Created,API Group 1-2,text,true,,665,26033,10,10,https://market-final-project.binaracademy.org/seller/product,4848,0,0
+1712512770075,6913,GET List Product,200,OK,API Group 1-6,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,6913,0,0
+1712512771036,5957,GET List Product,200,OK,API Group 1-10,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,5957,0,0
+1712512770196,6829,GET List Product,200,OK,API Group 1-8,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,6829,0,0
+1712512771003,6022,GET List Product,200,OK,API Group 1-3,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,6022,0,0
+1712512770075,6962,GET List Product,200,OK,API Group 1-1,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,6962,0,0
+1712512771038,6083,GET List Product,200,OK,API Group 1-5,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,6083,0,0
+1712512771051,6128,GET List Product,200,OK,API Group 1-2,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,6128,0,0
+1712512771037,6150,GET List Product,200,OK,API Group 1-9,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,6150,0,0
+1712512771048,6172,GET List Product,200,OK,API Group 1-4,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,6171,0,0
+1712512771043,6194,GET List Product,200,OK,API Group 1-7,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,6194,0,0
+1712512777025,2079,GET Get Product,200,OK,API Group 1-8,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123041,2079,0,0
+1712512777025,2085,GET Get Product,200,OK,API Group 1-3,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123043,2085,0,0
+1712512776988,2122,GET Get Product,200,OK,API Group 1-6,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123040,2122,0,0
+1712512776994,2162,GET Get Product,200,OK,API Group 1-10,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123044,2162,0,0
+1712512777121,2049,GET Get Product,200,OK,API Group 1-5,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123046,2049,0,0
+1712512777038,2139,GET Get Product,200,OK,API Group 1-1,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123042,2139,0,0
+1712512777188,2013,GET Get Product,200,OK,API Group 1-9,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123045,2013,0,0
+1712512777179,2051,GET Get Product,200,OK,API Group 1-2,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123049,2050,0,0
+1712512779106,409,GET Fetch Products,200,OK,API Group 1-8,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,409,0,0
+1712512779112,427,GET Fetch Products,200,OK,API Group 1-6,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,427,0,0
+1712512779112,751,GET Fetch Products,200,OK,API Group 1-3,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,751,0,0
+1712512779158,710,GET Fetch Products,200,OK,API Group 1-10,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,710,0,0
+1712512779171,718,GET Fetch Products,200,OK,API Group 1-5,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,718,0,0
+1712512779516,610,GET Fetch Product by id,200,OK,API Group 1-8,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123041,610,0,0
+1712512779179,948,GET Fetch Products,200,OK,API Group 1-1,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,948,0,0
+1712512779539,613,GET Fetch Product by id,200,OK,API Group 1-6,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123040,613,0,0
+1712512779203,977,GET Fetch Products,200,OK,API Group 1-9,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,977,0,0
+1712512777220,2965,GET Get Product,200,OK,API Group 1-4,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123047,2965,0,0
+1712512777238,2962,GET Get Product,200,OK,API Group 1-7,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123048,2962,0,0
+1712512779864,341,GET Fetch Product by id,200,OK,API Group 1-3,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123043,340,0,0
+1712512779868,358,GET Fetch Product by id,200,OK,API Group 1-10,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123044,358,0,0
+1712512779889,363,GET Fetch Product by id,200,OK,API Group 1-5,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123046,363,0,0
+1712512780128,126,GET Fetch Product by id,200,OK,API Group 1-1,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123042,126,0,0
+1712512780180,132,GET Fetch Product by id,200,OK,API Group 1-9,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123045,131,0,0
+1712512779231,1222,GET Fetch Products,200,OK,API Group 1-2,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1222,0,0
+1712512780186,509,GET Fetch Products,200,OK,API Group 1-4,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,509,0,0
+1712512780201,543,GET Fetch Products,200,OK,API Group 1-7,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,543,0,0
+1712512780454,361,GET Fetch Product by id,200,OK,API Group 1-2,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123049,361,0,0
+1712512780695,180,GET Fetch Product by id,200,OK,API Group 1-4,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123047,180,0,0
+1712512780745,146,GET Fetch Product by id,200,OK,API Group 1-7,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123048,145,0,0
+1712512780126,794,POST Create Order,201,Created,API Group 1-8,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,794,0,0
+1712512780153,769,POST Create Order,201,Created,API Group 1-6,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,769,0,0
+1712512780205,722,POST Create Order,201,Created,API Group 1-3,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,722,0,0
+1712512780226,721,POST Create Order,201,Created,API Group 1-10,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,721,0,0
+1712512780254,702,POST Create Order,201,Created,API Group 1-1,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,702,0,0
+1712512780253,710,POST Create Order,201,Created,API Group 1-5,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,710,0,0
+1712512780312,996,POST Create Order,201,Created,API Group 1-9,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,996,0,0
+1712512780948,386,GET Fetch Orders,200,OK,API Group 1-10,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,386,0,0
+1712512780927,411,GET Fetch Orders,200,OK,API Group 1-3,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,410,0,0
+1712512780921,418,GET Fetch Orders,200,OK,API Group 1-8,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,418,0,0
+1712512780957,416,GET Fetch Orders,200,OK,API Group 1-1,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,416,0,0
+1712512780922,453,GET Fetch Orders,200,OK,API Group 1-6,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,453,0,0
+1712512780815,567,POST Create Order,201,Created,API Group 1-2,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,567,0,0
+1712512780891,492,POST Create Order,201,Created,API Group 1-7,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,492,0,0
+1712512780876,509,POST Create Order,201,Created,API Group 1-4,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,509,0,0
+1712512780964,435,GET Fetch Orders,200,OK,API Group 1-5,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,435,0,0
+1712512781339,419,GET Fetch Order by id,200,OK,API Group 1-8,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64034,419,0,0
+1712512781335,426,GET Fetch Order by id,200,OK,API Group 1-10,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64037,426,0,0
+1712512781376,389,GET Fetch Order by id,200,OK,API Group 1-6,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64035,389,0,0
+1712512781338,428,GET Fetch Order by id,200,OK,API Group 1-3,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64036,428,0,0
+1712512781309,470,GET Fetch Orders,200,OK,API Group 1-9,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,470,0,0
+1712512781374,407,GET Fetch Order by id,200,OK,API Group 1-1,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64038,407,0,0
+1712512781382,427,GET Fetch Orders,200,OK,API Group 1-2,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,426,0,0
+1712512781384,426,GET Fetch Orders,200,OK,API Group 1-7,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,426,0,0
+1712512781385,630,GET Fetch Orders,200,OK,API Group 1-4,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,630,0,0
+1712512781400,623,GET Fetch Order by id,200,OK,API Group 1-5,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64039,623,0,0
+1712512781780,297,GET Fetch Order by id,200,OK,API Group 1-9,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64040,297,0,0
+1712512781809,403,GET Fetch Order by id,200,OK,API Group 1-2,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64041,403,0,0
+1712512781810,413,GET Fetch Order by id,200,OK,API Group 1-7,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64042,413,0,0
+1712512781759,469,PUT Edit Order by id,200,OK,API Group 1-8,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64034,469,0,0
+1712512781761,472,PUT Edit Order by id,200,OK,API Group 1-10,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64037,472,0,0
+1712512781767,471,PUT Edit Order by id,200,OK,API Group 1-3,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64036,470,0,0
+1712512781781,457,PUT Edit Order by id,200,OK,API Group 1-1,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64038,456,0,0
+1712512781766,472,PUT Edit Order by id,200,OK,API Group 1-6,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64035,472,0,0
+1712512782016,522,GET Fetch Order by id,200,OK,API Group 1-4,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64043,522,0,0
+1712512782077,522,PUT Edit Order by id,200,OK,API Group 1-9,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64040,522,0,0
+1712512782024,625,PUT Edit Order by id,200,OK,API Group 1-5,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64039,625,0,0
+1712512782212,444,PUT Edit Order by id,200,OK,API Group 1-2,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64041,444,0,0
+1712512782233,442,DEL Delete Product,200,OK,API Group 1-10,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123044,442,0,0
+1712512782229,481,DEL Delete Product,200,OK,API Group 1-8,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123041,481,0,0
+1712512782223,498,PUT Edit Order by id,200,OK,API Group 1-7,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64042,498,0,0
+1712512782238,596,DEL Delete Product,200,OK,API Group 1-1,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123042,596,0,0
+1712512782238,691,DEL Delete Product,200,OK,API Group 1-3,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123043,691,0,0
+1712512782239,805,DEL Delete Product,200,OK,API Group 1-6,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123040,805,0,0
+1712512782675,535,POST Register,201,Created,API Group 1-10,text,true,,582,1371,10,10,https://market-final-project.binaracademy.org/auth/register,535,0,0
+1712512782711,501,POST Register,201,Created,API Group 1-8,text,true,,582,1403,10,10,https://market-final-project.binaracademy.org/auth/register,501,0,0
+1712512782835,379,POST Register,201,Created,API Group 1-1,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,379,0,0
+1712512782538,687,PUT Edit Order by id,200,OK,API Group 1-4,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64043,687,0,0
+1712512783210,406,POST Login,201,Created,API Group 1-10,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,406,0,0
+1712512783212,481,POST Login,201,Created,API Group 1-8,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,481,0,0
+1712512783214,561,POST Login,201,Created,API Group 1-1,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,561,0,0
+1712512782656,1126,DEL Delete Product,200,OK,API Group 1-2,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123049,1125,0,0
+1712512782599,1185,DEL Delete Product,200,OK,API Group 1-9,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123045,1185,0,0
+1712512783045,739,POST Register,201,Created,API Group 1-6,text,true,,582,1347,10,10,https://market-final-project.binaracademy.org/auth/register,739,0,0
+1712512782930,855,POST Register,201,Created,API Group 1-3,text,true,,582,1371,10,10,https://market-final-project.binaracademy.org/auth/register,855,0,0
+1712512782650,1143,DEL Delete Product,200,OK,API Group 1-5,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123046,1143,0,0
+1712512782721,1095,DEL Delete Product,200,OK,API Group 1-7,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123048,1095,0,0
+1712512783225,626,DEL Delete Product,200,OK,API Group 1-4,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123047,625,0,0
+1712512783783,803,POST Login,201,Created,API Group 1-6,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,803,0,0
+1712512783784,883,POST Login,201,Created,API Group 1-3,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,883,0,0
+1712512783783,1132,POST Register,201,Created,API Group 1-9,text,true,,582,1371,10,10,https://market-final-project.binaracademy.org/auth/register,1132,0,0
+1712512783781,1137,POST Register,201,Created,API Group 1-2,text,true,,582,1371,10,10,https://market-final-project.binaracademy.org/auth/register,1137,0,0
+1712512783793,1126,POST Register,201,Created,API Group 1-5,text,true,,582,1363,10,10,https://market-final-project.binaracademy.org/auth/register,1126,0,0
+1712512783816,1103,POST Register,201,Created,API Group 1-7,text,true,,582,1403,10,10,https://market-final-project.binaracademy.org/auth/register,1103,0,0
+1712512783851,1069,POST Register,201,Created,API Group 1-4,text,true,,582,1403,10,10,https://market-final-project.binaracademy.org/auth/register,1069,0,0
+1712512783617,1337,POST  Create Product,201,Created,API Group 1-10,text,true,,665,26025,10,10,https://market-final-project.binaracademy.org/seller/product,1337,0,0
+1712512783776,1178,POST  Create Product,201,Created,API Group 1-1,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,1178,0,0
+1712512783694,1260,POST  Create Product,201,Created,API Group 1-8,text,true,,665,26009,10,10,https://market-final-project.binaracademy.org/seller/product,1260,0,0
+1712512784916,1182,POST Login,201,Created,API Group 1-9,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1182,0,0
+1712512784918,2701,POST Login,201,Created,API Group 1-2,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,2700,0,0
+1712512784920,2777,POST Login,201,Created,API Group 1-5,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,2776,0,0
+1712512784921,2854,POST Login,201,Created,API Group 1-4,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,2854,0,0
+1712512784920,3052,POST Login,201,Created,API Group 1-7,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3052,0,0
+1712512784956,3189,GET List Product,200,OK,API Group 1-8,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3189,0,0
+1712512784955,3323,GET List Product,200,OK,API Group 1-1,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3323,0,0
+1712512784955,3326,GET List Product,200,OK,API Group 1-10,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3326,0,0
+1712512784587,5629,POST  Create Product,201,Created,API Group 1-6,text,true,,665,26073,10,10,https://market-final-project.binaracademy.org/seller/product,5629,0,0
+1712512784668,6669,POST  Create Product,201,Created,API Group 1-3,text,true,,665,26041,10,10,https://market-final-project.binaracademy.org/seller/product,6669,0,0
+1712512786098,8856,POST  Create Product,201,Created,API Group 1-9,text,true,,665,26009,10,10,https://market-final-project.binaracademy.org/seller/product,8856,0,0
+1712512787776,7195,POST  Create Product,201,Created,API Group 1-4,text,true,,665,25993,10,10,https://market-final-project.binaracademy.org/seller/product,7195,0,0
+1712512787697,7277,POST  Create Product,201,Created,API Group 1-5,text,true,,665,25993,10,10,https://market-final-project.binaracademy.org/seller/product,7277,0,0
+1712512787619,7363,POST  Create Product,201,Created,API Group 1-2,text,true,,665,26009,10,10,https://market-final-project.binaracademy.org/seller/product,7363,0,0
+1712512788145,6874,GET Get Product,200,OK,API Group 1-8,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123051,6874,0,0
+1712512788283,6742,GET Get Product,200,OK,API Group 1-10,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123050,6742,0,0
+1712512788280,6746,GET Get Product,200,OK,API Group 1-1,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123052,6746,0,0
+1712512787973,7053,POST  Create Product,201,Created,API Group 1-7,text,true,,665,26073,10,10,https://market-final-project.binaracademy.org/seller/product,7053,0,0
+1712512790217,6491,GET List Product,200,OK,API Group 1-6,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,6491,0,0
+1712512795020,1944,GET Fetch Products,200,OK,API Group 1-8,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1944,0,0
+1712512795024,1943,GET Fetch Products,200,OK,API Group 1-10,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1943,0,0
+1712512794975,2170,GET List Product,200,OK,API Group 1-5,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2170,0,0
+1712512791338,5814,GET List Product,200,OK,API Group 1-3,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,5814,0,0
+1712512794955,2261,GET List Product,200,OK,API Group 1-9,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2261,0,0
+1712512794983,2338,GET List Product,200,OK,API Group 1-2,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2338,0,0
+1712512794972,2372,GET List Product,200,OK,API Group 1-4,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2371,0,0
+1712512796968,386,GET Fetch Product by id,200,OK,API Group 1-10,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123050,386,0,0
+1712512796964,394,GET Fetch Product by id,200,OK,API Group 1-8,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123051,394,0,0
+1712512795025,2336,GET Fetch Products,200,OK,API Group 1-1,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2336,0,0
+1712512795027,2694,GET List Product,200,OK,API Group 1-7,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2694,0,0
+1712512796708,1051,GET Get Product,200,OK,API Group 1-6,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123053,1051,0,0
+1712512797216,559,GET Get Product,200,OK,API Group 1-9,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123055,559,0,0
+1712512797145,637,GET Get Product,200,OK,API Group 1-5,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123057,637,0,0
+1712512797151,695,GET Get Product,200,OK,API Group 1-3,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123054,694,0,0
+1712512797361,504,GET Fetch Product by id,200,OK,API Group 1-1,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123052,503,0,0
+1712512797321,598,GET Get Product,200,OK,API Group 1-2,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123058,598,0,0
+1712512797759,464,GET Fetch Products,200,OK,API Group 1-6,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,464,0,0
+1712512797775,477,GET Fetch Products,200,OK,API Group 1-9,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,477,0,0
+1712512798225,284,GET Fetch Product by id,200,OK,API Group 1-6,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123053,284,0,0
+1712512798253,291,GET Fetch Product by id,200,OK,API Group 1-9,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123055,291,0,0
+1712512797782,768,GET Fetch Products,200,OK,API Group 1-5,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,768,0,0
+1712512797846,712,GET Fetch Products,200,OK,API Group 1-3,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,712,0,0
+1712512797721,867,GET Get Product,200,OK,API Group 1-7,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123059,867,0,0
+1712512797344,1247,GET Get Product,200,OK,API Group 1-4,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123056,1247,0,0
+1712512798551,113,GET Fetch Product by id,200,OK,API Group 1-5,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123057,113,0,0
+1712512797358,1347,POST Create Order,201,Created,API Group 1-8,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1347,0,0
+1712512798559,176,GET Fetch Product by id,200,OK,API Group 1-3,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123054,176,0,0
+1712512797919,823,GET Fetch Products,200,OK,API Group 1-2,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,823,0,0
+1712512797354,1505,POST Create Order,201,Created,API Group 1-10,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1505,0,0
+1712512797865,1150,POST Create Order,201,Created,API Group 1-1,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1150,0,0
+1712512798743,324,GET Fetch Product by id,200,OK,API Group 1-2,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123058,324,0,0
+1712512798589,532,GET Fetch Products,200,OK,API Group 1-7,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,532,0,0
+1712512798592,553,GET Fetch Products,200,OK,API Group 1-4,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,553,0,0
+1712512798706,441,GET Fetch Orders,200,OK,API Group 1-8,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,441,0,0
+1712512799121,186,GET Fetch Product by id,200,OK,API Group 1-7,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123059,186,0,0
+1712512798544,766,POST Create Order,201,Created,API Group 1-9,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,766,0,0
+1712512798510,802,POST Create Order,201,Created,API Group 1-6,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,802,0,0
+1712512798861,462,GET Fetch Orders,200,OK,API Group 1-10,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,462,0,0
+1712512799145,195,GET Fetch Product by id,200,OK,API Group 1-4,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123056,195,0,0
+1712512798664,680,POST Create Order,201,Created,API Group 1-5,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,680,0,0
+1712512799017,334,GET Fetch Orders,200,OK,API Group 1-1,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,334,0,0
+1712512798736,630,POST Create Order,201,Created,API Group 1-3,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,630,0,0
+1712512799147,226,GET Fetch Order by id,200,OK,API Group 1-8,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64044,226,0,0
+1712512799068,309,POST Create Order,201,Created,API Group 1-2,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,309,0,0
+1712512799311,426,GET Fetch Orders,200,OK,API Group 1-9,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,426,0,0
+1712512799312,426,GET Fetch Orders,200,OK,API Group 1-6,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,426,0,0
+1712512799323,418,GET Fetch Order by id,200,OK,API Group 1-10,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64045,418,0,0
+1712512799351,395,GET Fetch Order by id,200,OK,API Group 1-1,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64046,395,0,0
+1712512799345,426,GET Fetch Orders,200,OK,API Group 1-5,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,426,0,0
+1712512799367,416,GET Fetch Orders,200,OK,API Group 1-3,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,416,0,0
+1712512799377,610,GET Fetch Orders,200,OK,API Group 1-2,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,610,0,0
+1712512799307,723,POST Create Order,201,Created,API Group 1-7,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,723,0,0
+1712512799738,293,GET Fetch Order by id,200,OK,API Group 1-6,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64048,293,0,0
+1712512799738,300,GET Fetch Order by id,200,OK,API Group 1-9,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64047,300,0,0
+1712512799772,274,GET Fetch Order by id,200,OK,API Group 1-5,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64049,274,0,0
+1712512799373,677,PUT Edit Order by id,200,OK,API Group 1-8,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64044,677,0,0
+1712512799340,711,POST Create Order,201,Created,API Group 1-4,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,711,0,0
+1712512799742,319,PUT Edit Order by id,200,OK,API Group 1-10,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64045,319,0,0
+1712512799783,539,GET Fetch Order by id,200,OK,API Group 1-3,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64050,539,0,0
+1712512799988,338,GET Fetch Order by id,200,OK,API Group 1-2,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64051,338,0,0
+1712512800032,323,GET Fetch Orders,200,OK,API Group 1-7,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,323,0,0
+1712512799746,783,PUT Edit Order by id,200,OK,API Group 1-1,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64046,783,0,0
+1712512800051,500,GET Fetch Orders,200,OK,API Group 1-4,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,500,0,0
+1712512800032,526,PUT Edit Order by id,200,OK,API Group 1-6,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64048,526,0,0
+1712512800038,525,PUT Edit Order by id,200,OK,API Group 1-9,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64047,525,0,0
+1712512800356,242,GET Fetch Order by id,200,OK,API Group 1-7,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64052,241,0,0
+1712512800046,556,PUT Edit Order by id,200,OK,API Group 1-5,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64049,555,0,0
+1712512800322,290,PUT Edit Order by id,200,OK,API Group 1-3,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64050,290,0,0
+1712512800050,754,DEL Delete Product,200,OK,API Group 1-8,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123051,754,0,0
+1712512800552,300,GET Fetch Order by id,200,OK,API Group 1-4,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64053,300,0,0
+1712512800061,888,DEL Delete Product,200,OK,API Group 1-10,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123050,888,0,0
+1712512800326,635,PUT Edit Order by id,200,OK,API Group 1-2,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64051,635,0,0
+1712512800804,283,POST Register,201,Created,API Group 1-8,text,true,,582,1379,10,10,https://market-final-project.binaracademy.org/auth/register,283,0,0
+1712512800563,535,DEL Delete Product,200,OK,API Group 1-9,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123055,535,0,0
+1712512800529,578,DEL Delete Product,200,OK,API Group 1-1,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123052,578,0,0
+1712512800558,591,DEL Delete Product,200,OK,API Group 1-6,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123053,591,0,0
+1712512800613,733,DEL Delete Product,200,OK,API Group 1-3,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123054,733,0,0
+1712512801087,337,POST Login,201,Created,API Group 1-8,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,337,0,0
+1712512800598,990,PUT Edit Order by id,200,OK,API Group 1-7,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64052,990,0,0
+1712512800602,995,DEL Delete Product,200,OK,API Group 1-5,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123057,995,0,0
+1712512800950,723,POST Register,201,Created,API Group 1-10,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,723,0,0
+1712512801098,578,POST Register,201,Created,API Group 1-9,text,true,,582,1387,10,10,https://market-final-project.binaracademy.org/auth/register,578,0,0
+1712512801107,569,POST Register,201,Created,API Group 1-1,text,true,,582,1339,10,10,https://market-final-project.binaracademy.org/auth/register,569,0,0
+1712512801150,527,POST Register,201,Created,API Group 1-6,text,true,,582,1355,10,10,https://market-final-project.binaracademy.org/auth/register,527,0,0
+1712512800852,827,PUT Edit Order by id,200,OK,API Group 1-4,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64053,827,0,0
+1712512801677,474,POST Login,201,Created,API Group 1-1,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,474,0,0
+1712512801676,636,POST Login,201,Created,API Group 1-9,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,636,0,0
+1712512801673,719,POST Login,201,Created,API Group 1-10,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,719,0,0
+1712512801678,794,POST Login,201,Created,API Group 1-6,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,794,0,0
+1712512801346,1133,POST Register,201,Created,API Group 1-3,text,true,,582,1403,10,10,https://market-final-project.binaracademy.org/auth/register,1133,0,0
+1712512801597,885,POST Register,201,Created,API Group 1-5,text,true,,582,1339,10,10,https://market-final-project.binaracademy.org/auth/register,885,0,0
+1712512800961,1537,DEL Delete Product,200,OK,API Group 1-2,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123058,1537,0,0
+1712512801425,1079,POST  Create Product,201,Created,API Group 1-8,text,true,,665,26033,10,10,https://market-final-project.binaracademy.org/seller/product,1079,0,0
+1712512801588,985,DEL Delete Product,200,OK,API Group 1-7,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123059,985,0,0
+1712512802483,1175,POST Login,201,Created,API Group 1-5,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1175,0,0
+1712512802480,1257,POST Login,201,Created,API Group 1-3,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1257,0,0
+1712512801679,2372,DEL Delete Product,200,OK,API Group 1-4,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123056,2372,0,0
+1712512802498,1751,POST Register,201,Created,API Group 1-2,text,true,,582,1395,10,10,https://market-final-project.binaracademy.org/auth/register,1751,0,0
+1712512802574,1678,POST Register,201,Created,API Group 1-7,text,true,,582,1363,10,10,https://market-final-project.binaracademy.org/auth/register,1678,0,0
+1712512802505,1790,GET List Product,200,OK,API Group 1-8,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,1790,0,0
+1712512802312,1990,POST  Create Product,201,Created,API Group 1-9,text,true,,665,26041,10,10,https://market-final-project.binaracademy.org/seller/product,1990,0,0
+1712512802151,2152,POST  Create Product,201,Created,API Group 1-1,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,2152,0,0
+1712512802473,1831,POST  Create Product,201,Created,API Group 1-6,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,1831,0,0
+1712512802392,1916,POST  Create Product,201,Created,API Group 1-10,text,true,,665,26001,10,10,https://market-final-project.binaracademy.org/seller/product,1916,0,0
+1712512804249,3342,POST Login,201,Created,API Group 1-2,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3342,0,0
+1712512804252,3421,POST Login,201,Created,API Group 1-7,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3421,0,0
+1712512804050,4114,POST Register,201,Created,API Group 1-4,text,true,,582,1355,10,10,https://market-final-project.binaracademy.org/auth/register,4114,0,0
+1712512804301,3871,GET List Product,200,OK,API Group 1-9,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3871,0,0
+1712512804303,3874,GET List Product,200,OK,API Group 1-1,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3874,0,0
+1712512804295,3912,GET Get Product,200,OK,API Group 1-8,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123060,3912,0,0
+1712512803658,4578,POST  Create Product,201,Created,API Group 1-5,text,true,,665,26057,10,10,https://market-final-project.binaracademy.org/seller/product,4578,0,0
+1712512804307,4029,GET List Product,200,OK,API Group 1-10,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4029,0,0
+1712512804304,4052,GET List Product,200,OK,API Group 1-6,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4051,0,0
+1712512803736,4639,POST  Create Product,201,Created,API Group 1-3,text,true,,665,26017,10,10,https://market-final-project.binaracademy.org/seller/product,4639,0,0
+1712512808165,1292,POST Login,201,Created,API Group 1-4,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1292,0,0
+1712512808207,1922,GET Fetch Products,200,OK,API Group 1-8,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1922,0,0
+1712512808237,3134,GET List Product,200,OK,API Group 1-5,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3134,0,0
+1712512808177,3215,GET Get Product,200,OK,API Group 1-1,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123062,3215,0,0
+1712512808172,3252,GET Get Product,200,OK,API Group 1-9,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123061,3252,0,0
+1712512807673,3756,POST  Create Product,201,Created,API Group 1-7,text,true,,665,26025,10,10,https://market-final-project.binaracademy.org/seller/product,3756,0,0
+1712512808336,3112,GET Get Product,200,OK,API Group 1-10,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123064,3111,0,0
+1712512810130,1365,GET Fetch Product by id,200,OK,API Group 1-8,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123060,1365,0,0
+1712512807592,3964,POST  Create Product,201,Created,API Group 1-2,text,true,,665,26025,10,10,https://market-final-project.binaracademy.org/seller/product,3963,0,0
+1712512811392,2177,GET Fetch Products,200,OK,API Group 1-1,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2177,0,0
+1712512811424,2146,GET Fetch Products,200,OK,API Group 1-9,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2146,0,0
+1712512811448,2435,GET Fetch Products,200,OK,API Group 1-10,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2435,0,0
+1712512808375,5512,GET List Product,200,OK,API Group 1-3,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,5511,0,0
+1712512808356,5559,GET Get Product,200,OK,API Group 1-6,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123063,5559,0,0
+1712512811372,2595,GET Get Product,200,OK,API Group 1-5,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123065,2595,0,0
+1712512813570,414,GET Fetch Product by id,200,OK,API Group 1-1,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123062,414,0,0
+1712512813571,416,GET Fetch Product by id,200,OK,API Group 1-9,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123061,416,0,0
+1712512813884,132,GET Fetch Product by id,200,OK,API Group 1-10,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123064,132,0,0
+1712512811429,3334,GET List Product,200,OK,API Group 1-7,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3334,0,0
+1712512811556,3212,GET List Product,200,OK,API Group 1-2,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3212,0,0
+1712512813916,855,GET Fetch Products,200,OK,API Group 1-6,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,855,0,0
+1712512813969,1363,GET Fetch Products,200,OK,API Group 1-5,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1363,0,0
+1712512809457,5881,POST  Create Product,201,Created,API Group 1-4,text,true,,665,26033,10,10,https://market-final-project.binaracademy.org/seller/product,5881,0,0
+1712512811495,3846,POST Create Order,201,Created,API Group 1-8,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3846,0,0
+1712512813888,1513,GET Get Product,200,OK,API Group 1-3,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123066,1513,0,0
+1712512814771,678,GET Fetch Product by id,200,OK,API Group 1-6,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123063,678,0,0
+1712512815332,137,GET Fetch Product by id,200,OK,API Group 1-5,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123065,137,0,0
+1712512815340,709,GET List Product,200,OK,API Group 1-4,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,709,0,0
+1712512815401,651,GET Fetch Products,200,OK,API Group 1-3,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,651,0,0
+1712512814769,1285,GET Get Product,200,OK,API Group 1-2,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123068,1285,0,0
+1712512813984,2073,POST Create Order,201,Created,API Group 1-1,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2073,0,0
+1712512813987,2070,POST Create Order,201,Created,API Group 1-9,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2070,0,0
+1712512815343,728,GET Fetch Orders,200,OK,API Group 1-8,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,728,0,0
+1712512814765,1311,GET Get Product,200,OK,API Group 1-7,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123067,1311,0,0
+1712512815449,635,POST Create Order,201,Created,API Group 1-6,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,635,0,0
+1712512814016,2069,POST Create Order,201,Created,API Group 1-10,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2069,0,0
+1712512815470,623,POST Create Order,201,Created,API Group 1-5,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,623,0,0
+1712512816052,113,GET Fetch Product by id,200,OK,API Group 1-3,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123066,113,0,0
+1712512816054,535,GET Fetch Products,200,OK,API Group 1-2,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,535,0,0
+1712512816057,571,GET Fetch Orders,200,OK,API Group 1-1,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,571,0,0
+1712512816058,604,GET Fetch Orders,200,OK,API Group 1-9,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,604,0,0
+1712512816071,592,GET Fetch Order by id,200,OK,API Group 1-8,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64054,592,0,0
+1712512816085,609,GET Fetch Orders,200,OK,API Group 1-6,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,609,0,0
+1712512816086,630,GET Fetch Orders,200,OK,API Group 1-10,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,630,0,0
+1712512816590,152,GET Fetch Product by id,200,OK,API Group 1-2,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123068,152,0,0
+1712512816050,694,GET Get Product,200,OK,API Group 1-4,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123069,694,0,0
+1712512816094,652,GET Fetch Orders,200,OK,API Group 1-5,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,652,0,0
+1712512816076,711,GET Fetch Products,200,OK,API Group 1-7,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,711,0,0
+1712512816629,435,GET Fetch Order by id,200,OK,API Group 1-1,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64055,435,0,0
+1712512816787,278,GET Fetch Product by id,200,OK,API Group 1-7,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123067,278,0,0
+1712512816663,410,GET Fetch Order by id,200,OK,API Group 1-9,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64056,409,0,0
+1712512816716,359,GET Fetch Order by id,200,OK,API Group 1-10,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64057,359,0,0
+1712512816694,399,GET Fetch Order by id,200,OK,API Group 1-6,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64058,399,0,0
+1712512816746,374,GET Fetch Order by id,200,OK,API Group 1-5,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64059,374,0,0
+1712512816165,965,POST Create Order,201,Created,API Group 1-3,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,965,0,0
+1712512816744,657,GET Fetch Products,200,OK,API Group 1-4,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,657,0,0
+1712512816663,796,PUT Edit Order by id,200,OK,API Group 1-8,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64054,796,0,0
+1712512816742,729,POST Create Order,201,Created,API Group 1-2,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,729,0,0
+1712512817065,423,PUT Edit Order by id,200,OK,API Group 1-1,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64055,423,0,0
+1712512817073,417,PUT Edit Order by id,200,OK,API Group 1-9,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64056,417,0,0
+1712512817093,405,PUT Edit Order by id,200,OK,API Group 1-6,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64058,405,0,0
+1712512817075,423,PUT Edit Order by id,200,OK,API Group 1-10,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64057,423,0,0
+1712512817066,436,POST Create Order,201,Created,API Group 1-7,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,436,0,0
+1712512817401,102,GET Fetch Product by id,200,OK,API Group 1-4,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123069,102,0,0
+1712512817120,398,PUT Edit Order by id,200,OK,API Group 1-5,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64059,398,0,0
+1712512817131,579,GET Fetch Orders,200,OK,API Group 1-3,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,579,0,0
+1712512817471,414,GET Fetch Orders,200,OK,API Group 1-2,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,414,0,0
+1712512817502,428,GET Fetch Orders,200,OK,API Group 1-7,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,428,0,0
+1712512817710,373,GET Fetch Order by id,200,OK,API Group 1-3,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64060,373,0,0
+1712512817885,208,GET Fetch Order by id,200,OK,API Group 1-2,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64061,208,0,0
+1712512817459,640,DEL Delete Product,200,OK,API Group 1-8,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123060,640,0,0
+1712512817488,614,DEL Delete Product,200,OK,API Group 1-1,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123062,614,0,0
+1712512817503,606,POST Create Order,201,Created,API Group 1-4,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,606,0,0
+1712512817498,620,DEL Delete Product,200,OK,API Group 1-6,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123063,620,0,0
+1712512817931,190,GET Fetch Order by id,200,OK,API Group 1-7,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64062,190,0,0
+1712512817499,631,DEL Delete Product,200,OK,API Group 1-10,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123064,631,0,0
+1712512817491,906,DEL Delete Product,200,OK,API Group 1-9,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123061,906,0,0
+1712512817518,962,DEL Delete Product,200,OK,API Group 1-5,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123065,962,0,0
+1712512818099,542,POST Register,201,Created,API Group 1-8,text,true,,582,1403,10,10,https://market-final-project.binaracademy.org/auth/register,542,0,0
+1712512818102,539,POST Register,201,Created,API Group 1-1,text,true,,582,1379,10,10,https://market-final-project.binaracademy.org/auth/register,539,0,0
+1712512818130,514,POST Register,201,Created,API Group 1-10,text,true,,582,1403,10,10,https://market-final-project.binaracademy.org/auth/register,514,0,0
+1712512818118,532,POST Register,201,Created,API Group 1-6,text,true,,582,1355,10,10,https://market-final-project.binaracademy.org/auth/register,532,0,0
+1712512818109,545,GET Fetch Orders,200,OK,API Group 1-4,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,545,0,0
+1712512818122,545,PUT Edit Order by id,200,OK,API Group 1-7,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64062,545,0,0
+1712512818083,584,PUT Edit Order by id,200,OK,API Group 1-3,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64060,584,0,0
+1712512818093,577,PUT Edit Order by id,200,OK,API Group 1-2,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64061,577,0,0
+1712512818640,412,POST Login,201,Created,API Group 1-8,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,412,0,0
+1712512818641,490,POST Login,201,Created,API Group 1-1,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,490,0,0
+1712512818649,563,POST Login,201,Created,API Group 1-6,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,563,0,0
+1712512818643,650,POST Login,201,Created,API Group 1-10,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,650,0,0
+1712512818396,899,POST Register,201,Created,API Group 1-9,text,true,,582,1363,10,10,https://market-final-project.binaracademy.org/auth/register,899,0,0
+1712512818479,817,POST Register,201,Created,API Group 1-5,text,true,,582,1363,10,10,https://market-final-project.binaracademy.org/auth/register,817,0,0
+1712512818653,646,GET Fetch Order by id,200,OK,API Group 1-4,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64063,646,0,0
+1712512819295,668,POST Login,201,Created,API Group 1-9,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,668,0,0
+1712512819296,749,POST Login,201,Created,API Group 1-5,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,749,0,0
+1712512818667,1497,DEL Delete Product,200,OK,API Group 1-3,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123066,1497,0,0
+1712512818669,1497,DEL Delete Product,200,OK,API Group 1-2,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123068,1497,0,0
+1712512818667,1501,DEL Delete Product,200,OK,API Group 1-7,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123067,1501,0,0
+1712512819132,1050,POST  Create Product,201,Created,API Group 1-1,text,true,,665,26057,10,10,https://market-final-project.binaracademy.org/seller/product,1050,0,0
+1712512819293,890,POST  Create Product,201,Created,API Group 1-10,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,890,0,0
+1712512819053,1132,POST  Create Product,201,Created,API Group 1-8,text,true,,665,26025,10,10,https://market-final-project.binaracademy.org/seller/product,1132,0,0
+1712512819212,975,POST  Create Product,201,Created,API Group 1-6,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,975,0,0
+1712512819300,889,PUT Edit Order by id,200,OK,API Group 1-4,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64063,889,0,0
+1712512820164,3750,POST Register,201,Created,API Group 1-3,text,true,,582,1347,10,10,https://market-final-project.binaracademy.org/auth/register,3750,0,0
+1712512820166,3751,POST Register,201,Created,API Group 1-2,text,true,,582,1355,10,10,https://market-final-project.binaracademy.org/auth/register,3751,0,0
+1712512820169,3753,POST Register,201,Created,API Group 1-7,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,3753,0,0
+1712512820045,3923,POST  Create Product,201,Created,API Group 1-5,text,true,,665,26033,10,10,https://market-final-project.binaracademy.org/seller/product,3923,0,0
+1712512819963,4008,POST  Create Product,201,Created,API Group 1-9,text,true,,665,26041,10,10,https://market-final-project.binaracademy.org/seller/product,4008,0,0
+1712512820190,3822,DEL Delete Product,200,OK,API Group 1-4,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123069,3822,0,0
+1712512820182,3869,GET List Product,200,OK,API Group 1-1,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3869,0,0
+1712512820186,3867,GET List Product,200,OK,API Group 1-8,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3867,0,0
+1712512820188,3871,GET List Product,200,OK,API Group 1-6,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3871,0,0
+1712512820183,3892,GET List Product,200,OK,API Group 1-10,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3892,0,0
+1712512823918,1604,POST Login,201,Created,API Group 1-2,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1604,0,69
+1712512823915,1687,POST Login,201,Created,API Group 1-3,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1687,0,71
+1712512823923,1758,POST Login,201,Created,API Group 1-7,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1758,0,65
+1712512823970,2890,GET List Product,200,OK,API Group 1-5,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2890,0,68
+1712512823973,2888,GET List Product,200,OK,API Group 1-9,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2888,0,76
+1712512824013,3248,POST Register,201,Created,API Group 1-4,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,3248,0,68
+1712512824055,4984,GET Get Product,200,OK,API Group 1-8,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123070,4984,0,65
+1712512824052,4999,GET Get Product,200,OK,API Group 1-1,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123071,4999,0,68
+1712512824060,4996,GET Get Product,200,OK,API Group 1-6,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123073,4996,0,76
+1712512824076,4987,GET Get Product,200,OK,API Group 1-10,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123072,4987,0,61
+1712512825523,3551,POST  Create Product,201,Created,API Group 1-2,text,true,,665,26001,10,10,https://market-final-project.binaracademy.org/seller/product,3551,0,0
+1712512825602,3481,POST  Create Product,201,Created,API Group 1-3,text,true,,665,26017,10,10,https://market-final-project.binaracademy.org/seller/product,3481,0,0
+1712512825682,3403,POST  Create Product,201,Created,API Group 1-7,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,3403,0,0
+1712512826861,2225,GET Get Product,200,OK,API Group 1-5,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123074,2225,0,0
+1712512826861,2251,GET Get Product,200,OK,API Group 1-9,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123075,2251,0,0
+1712512827261,1962,POST Login,201,Created,API Group 1-4,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1962,0,0
+1712512829039,1683,GET Fetch Products,200,OK,API Group 1-8,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1683,0,0
+1712512829051,1675,GET Fetch Products,200,OK,API Group 1-1,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1674,0,0
+1712512829056,1932,GET Fetch Products,200,OK,API Group 1-6,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1932,0,0
+1712512829064,1941,GET Fetch Products,200,OK,API Group 1-10,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1941,0,0
+1712512829074,2169,GET List Product,200,OK,API Group 1-2,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2169,0,0
+1712512829112,2219,GET Fetch Products,200,OK,API Group 1-9,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2219,0,0
+1712512829086,2277,GET Fetch Products,200,OK,API Group 1-5,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2277,0,0
+1712512830723,649,GET Fetch Product by id,200,OK,API Group 1-8,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123070,649,0,0
+1712512830726,652,GET Fetch Product by id,200,OK,API Group 1-1,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123071,652,0,0
+1712512830989,710,GET Fetch Product by id,200,OK,API Group 1-6,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123073,710,0,0
+1712512831005,718,GET Fetch Product by id,200,OK,API Group 1-10,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123072,718,0,0
+1712512829083,2643,GET List Product,200,OK,API Group 1-3,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2643,0,0
+1712512829086,2746,GET List Product,200,OK,API Group 1-7,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2746,0,0
+1712512831331,504,GET Fetch Product by id,200,OK,API Group 1-9,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123075,504,0,0
+1712512831244,637,GET Get Product,200,OK,API Group 1-2,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123076,637,0,0
+1712512831363,534,GET Fetch Product by id,200,OK,API Group 1-5,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123074,534,0,0
+1712512829224,2793,POST  Create Product,201,Created,API Group 1-4,text,true,,665,26001,10,10,https://market-final-project.binaracademy.org/seller/product,2793,0,0
+1712512831881,1118,GET Fetch Products,200,OK,API Group 1-2,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1118,0,0
+1712512831726,1388,GET Get Product,200,OK,API Group 1-3,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123077,1388,0,0
+1712512831832,1303,GET Get Product,200,OK,API Group 1-7,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123078,1303,0,0
+1712512831700,1451,POST Create Order,201,Created,API Group 1-6,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1451,0,0
+1712512831724,1429,POST Create Order,201,Created,API Group 1-10,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1429,0,0
+1712512832999,155,GET Fetch Product by id,200,OK,API Group 1-2,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123076,155,0,0
+1712512831372,1782,POST Create Order,201,Created,API Group 1-8,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1782,0,0
+1712512831835,1326,POST Create Order,201,Created,API Group 1-9,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1326,0,0
+1712512831378,1783,POST Create Order,201,Created,API Group 1-1,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1783,0,0
+1712512832017,1147,GET List Product,200,OK,API Group 1-4,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,1147,0,0
+1712512831897,1282,POST Create Order,201,Created,API Group 1-5,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1282,0,0
+1712512833114,674,GET Fetch Products,200,OK,API Group 1-3,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,674,0,0
+1712512833135,655,GET Fetch Products,200,OK,API Group 1-7,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,655,0,0
+1712512833151,832,GET Fetch Orders,200,OK,API Group 1-6,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,832,0,0
+1712512833153,831,GET Fetch Orders,200,OK,API Group 1-10,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,831,0,0
+1712512833154,868,GET Fetch Orders,200,OK,API Group 1-8,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,868,0,0
+1712512833164,872,GET Get Product,200,OK,API Group 1-4,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123079,872,0,0
+1712512833790,253,GET Fetch Product by id,200,OK,API Group 1-7,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123078,253,0,0
+1712512833787,257,GET Fetch Product by id,200,OK,API Group 1-3,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123077,257,0,0
+1712512833162,884,GET Fetch Orders,200,OK,API Group 1-1,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,884,0,0
+1712512833161,892,GET Fetch Orders,200,OK,API Group 1-9,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,892,0,0
+1712512833179,877,GET Fetch Orders,200,OK,API Group 1-5,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,877,0,0
+1712512833154,907,POST Create Order,201,Created,API Group 1-2,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,907,0,0
+1712512833983,521,GET Fetch Order by id,200,OK,API Group 1-10,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64066,521,0,0
+1712512833982,526,GET Fetch Order by id,200,OK,API Group 1-6,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64064,526,0,0
+1712512834021,489,GET Fetch Order by id,200,OK,API Group 1-8,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64065,489,0,0
+1712512834045,484,GET Fetch Order by id,200,OK,API Group 1-1,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64067,484,0,0
+1712512834052,492,GET Fetch Order by id,200,OK,API Group 1-9,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64068,492,0,0
+1712512834055,494,GET Fetch Order by id,200,OK,API Group 1-5,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64069,494,0,0
+1712512834060,630,GET Fetch Orders,200,OK,API Group 1-2,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,630,0,0
+1712512834035,728,GET Fetch Products,200,OK,API Group 1-4,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,728,0,0
+1712512834043,727,POST Create Order,201,Created,API Group 1-7,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,727,0,0
+1712512834044,741,POST Create Order,201,Created,API Group 1-3,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,741,0,0
+1712512834504,373,PUT Edit Order by id,200,OK,API Group 1-10,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64066,373,0,0
+1712512834763,116,GET Fetch Product by id,200,OK,API Group 1-4,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123079,116,0,0
+1712512834510,372,PUT Edit Order by id,200,OK,API Group 1-8,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64065,372,0,0
+1712512834508,382,PUT Edit Order by id,200,OK,API Group 1-6,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64064,382,0,0
+1712512834549,364,PUT Edit Order by id,200,OK,API Group 1-5,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64069,364,0,0
+1712512834544,373,PUT Edit Order by id,200,OK,API Group 1-9,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64068,373,0,0
+1712512834690,421,GET Fetch Order by id,200,OK,API Group 1-2,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64070,421,0,0
+1712512834785,405,GET Fetch Orders,200,OK,API Group 1-3,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,405,0,0
+1712512834777,413,GET Fetch Orders,200,OK,API Group 1-7,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,413,0,0
+1712512834529,865,PUT Edit Order by id,200,OK,API Group 1-1,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64067,865,0,0
+1712512834880,531,POST Create Order,201,Created,API Group 1-4,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,531,0,0
+1712512834877,545,DEL Delete Product,200,OK,API Group 1-10,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123072,545,0,0
+1712512835191,242,GET Fetch Order by id,200,OK,API Group 1-7,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64071,242,0,0
+1712512835111,339,PUT Edit Order by id,200,OK,API Group 1-2,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64070,339,0,0
+1712512834917,547,DEL Delete Product,200,OK,API Group 1-9,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123075,547,0,0
+1712512834890,577,DEL Delete Product,200,OK,API Group 1-6,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123073,577,0,0
+1712512834882,627,DEL Delete Product,200,OK,API Group 1-8,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123070,627,0,0
+1712512834913,648,DEL Delete Product,200,OK,API Group 1-5,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123074,648,0,0
+1712512835190,550,GET Fetch Order by id,200,OK,API Group 1-3,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64072,550,0,0
+1712512835411,492,GET Fetch Orders,200,OK,API Group 1-4,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,491,0,0
+1712512835422,482,POST Register,201,Created,API Group 1-10,text,true,,582,1355,10,10,https://market-final-project.binaracademy.org/auth/register,482,0,0
+1712512835464,601,POST Register,201,Created,API Group 1-9,text,true,,582,1403,10,10,https://market-final-project.binaracademy.org/auth/register,601,0,0
+1712512835468,598,POST Register,201,Created,API Group 1-6,text,true,,582,1339,10,10,https://market-final-project.binaracademy.org/auth/register,598,0,0
+1712512835561,510,POST Register,201,Created,API Group 1-5,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,510,0,0
+1712512835509,562,POST Register,201,Created,API Group 1-8,text,true,,582,1347,10,10,https://market-final-project.binaracademy.org/auth/register,562,0,0
+1712512835433,682,PUT Edit Order by id,200,OK,API Group 1-7,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64071,682,0,0
+1712512835904,417,POST Login,201,Created,API Group 1-10,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,417,0,0
+1712512836066,341,POST Login,201,Created,API Group 1-9,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,341,0,0
+1712512836067,418,POST Login,201,Created,API Group 1-6,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,418,0,0
+1712512836072,492,POST Login,201,Created,API Group 1-8,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,492,0,0
+1712512836071,572,POST Login,201,Created,API Group 1-5,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,572,0,0
+1712512835394,1250,DEL Delete Product,200,OK,API Group 1-1,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123071,1250,0,0
+1712512835903,744,GET Fetch Order by id,200,OK,API Group 1-4,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64073,744,0,0
+1712512835450,1211,DEL Delete Product,200,OK,API Group 1-2,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123076,1211,0,0
+1712512835740,1015,PUT Edit Order by id,200,OK,API Group 1-3,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64072,1015,0,0
+1712512836115,1266,DEL Delete Product,200,OK,API Group 1-7,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123078,1266,0,0
+1712512836644,921,POST Register,201,Created,API Group 1-1,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,921,0,0
+1712512836661,910,POST Register,201,Created,API Group 1-2,text,true,,582,1387,10,10,https://market-final-project.binaracademy.org/auth/register,910,0,0
+1712512836321,1280,POST  Create Product,201,Created,API Group 1-10,text,true,,665,25993,10,10,https://market-final-project.binaracademy.org/seller/product,1280,0,0
+1712512836485,1119,POST  Create Product,201,Created,API Group 1-6,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,1119,0,0
+1712512836565,1041,POST  Create Product,201,Created,API Group 1-8,text,true,,665,26073,10,10,https://market-final-project.binaracademy.org/seller/product,1041,0,0
+1712512836407,1202,POST  Create Product,201,Created,API Group 1-9,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,1202,0,0
+1712512836647,967,PUT Edit Order by id,200,OK,API Group 1-4,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64073,967,0,0
+1712512836643,971,POST  Create Product,201,Created,API Group 1-5,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,971,0,0
+1712512837571,1764,POST Login,201,Created,API Group 1-2,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1764,0,0
+1712512837566,3425,POST Login,201,Created,API Group 1-1,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3425,0,0
+1712512837381,4407,POST Register,201,Created,API Group 1-7,text,true,,582,1395,10,10,https://market-final-project.binaracademy.org/auth/register,4407,0,0
+1712512836756,5061,DEL Delete Product,200,OK,API Group 1-3,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123077,5061,0,0
+1712512837602,4355,GET List Product,200,OK,API Group 1-10,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4355,0,0
+1712512837606,4351,GET List Product,200,OK,API Group 1-8,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4351,0,0
+1712512837604,4381,GET List Product,200,OK,API Group 1-6,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4381,0,0
+1712512837609,4441,GET List Product,200,OK,API Group 1-9,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4441,0,0
+1712512837614,4512,GET List Product,200,OK,API Group 1-5,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4512,0,0
+1712512841789,1495,POST Login,201,Created,API Group 1-7,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1495,0,0
+1712512841818,2272,POST Register,201,Created,API Group 1-3,text,true,,582,1371,10,10,https://market-final-project.binaracademy.org/auth/register,2272,0,0
+1712512841958,2158,GET Get Product,200,OK,API Group 1-8,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123082,2158,0,0
+1712512842051,2113,GET Get Product,200,OK,API Group 1-9,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123083,2113,0,0
+1712512841986,2181,GET Get Product,200,OK,API Group 1-6,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123081,2181,0,0
+1712512841958,2272,GET Get Product,200,OK,API Group 1-10,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123080,2272,0,0
+1712512839337,4924,POST  Create Product,201,Created,API Group 1-2,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,4924,0,0
+1712512837614,6767,DEL Delete Product,200,OK,API Group 1-4,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123079,6767,0,0
+1712512840992,3390,POST  Create Product,201,Created,API Group 1-1,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,3390,0,0
+1712512844091,372,POST Login,201,Created,API Group 1-3,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,372,0,0
+1712512844165,1887,GET Fetch Products,200,OK,API Group 1-9,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1887,0,0
+1712512844117,1941,GET Fetch Products,200,OK,API Group 1-8,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1941,0,0
+1712512842128,4072,GET Get Product,200,OK,API Group 1-5,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123084,4072,0,0
+1712512844167,2958,GET Fetch Products,200,OK,API Group 1-6,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2958,0,0
+1712512844230,2897,GET Fetch Products,200,OK,API Group 1-10,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2897,0,0
+1712512846053,1751,GET Fetch Product by id,200,OK,API Group 1-9,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123083,1751,0,0
+1712512846058,1750,GET Fetch Product by id,200,OK,API Group 1-8,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123082,1750,0,0
+1712512844262,3548,GET List Product,200,OK,API Group 1-2,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3548,0,0
+1712512844382,3433,POST Register,201,Created,API Group 1-4,text,true,,582,1387,10,10,https://market-final-project.binaracademy.org/auth/register,3433,0,0
+1712512843285,4546,POST  Create Product,201,Created,API Group 1-7,text,true,,665,26001,10,10,https://market-final-project.binaracademy.org/seller/product,4546,0,0
+1712512847125,728,GET Fetch Product by id,200,OK,API Group 1-6,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123081,728,0,0
+1712512847127,755,GET Fetch Product by id,200,OK,API Group 1-10,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123080,755,0,0
+1712512844383,4333,GET List Product,200,OK,API Group 1-1,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4333,0,0
+1712512846200,2518,GET Fetch Products,200,OK,API Group 1-5,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2518,0,0
+1712512847815,1231,POST Login,201,Created,API Group 1-4,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1231,0,0
+1712512844463,4625,POST  Create Product,201,Created,API Group 1-3,text,true,,665,26073,10,10,https://market-final-project.binaracademy.org/seller/product,4625,0,0
+1712512847811,1286,GET Get Product,200,OK,API Group 1-2,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123085,1286,0,0
+1712512848718,422,GET Fetch Product by id,200,OK,API Group 1-5,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123084,422,0,0
+1712512847804,1342,POST Create Order,201,Created,API Group 1-9,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1342,0,0
+1712512847808,1505,POST Create Order,201,Created,API Group 1-8,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1505,0,0
+1712512847882,1574,POST Create Order,201,Created,API Group 1-10,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1574,0,0
+1712512847831,1643,GET List Product,200,OK,API Group 1-7,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,1643,0,0
+1712512849096,380,GET Fetch Products,200,OK,API Group 1-2,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,380,0,0
+1712512849087,650,GET List Product,200,OK,API Group 1-3,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,650,0,0
+1712512847853,2615,POST Create Order,201,Created,API Group 1-6,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2615,0,0
+1712512848715,1766,GET Get Product,200,OK,API Group 1-1,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123086,1766,0,0
+1712512849145,1345,GET Fetch Orders,200,OK,API Group 1-9,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1345,0,0
+1712512849312,1196,GET Fetch Orders,200,OK,API Group 1-8,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1196,0,0
+1712512849045,1469,POST  Create Product,201,Created,API Group 1-4,text,true,,665,26017,10,10,https://market-final-project.binaracademy.org/seller/product,1469,0,0
+1712512849477,1070,GET Fetch Product by id,200,OK,API Group 1-2,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123085,1070,0,0
+1712512849455,1413,GET Fetch Orders,200,OK,API Group 1-10,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1413,0,0
+1712512849140,1741,POST Create Order,201,Created,API Group 1-5,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1741,0,0
+1712512850508,374,GET Fetch Order by id,200,OK,API Group 1-8,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64075,374,0,0
+1712512850490,393,GET Fetch Order by id,200,OK,API Group 1-9,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64074,393,0,0
+1712512850467,426,GET Fetch Orders,200,OK,API Group 1-6,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,426,0,0
+1712512849737,1175,GET Get Product,200,OK,API Group 1-3,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123088,1175,0,0
+1712512849474,1746,GET Get Product,200,OK,API Group 1-7,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123087,1746,0,0
+1712512850514,708,GET List Product,200,OK,API Group 1-4,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,708,0,0
+1712512850482,743,GET Fetch Products,200,OK,API Group 1-1,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,743,0,0
+1712512851226,420,GET Fetch Product by id,200,OK,API Group 1-1,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123086,420,0,0
+1712512850881,791,GET Fetch Orders,200,OK,API Group 1-5,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,791,0,0
+1712512850868,808,GET Fetch Order by id,200,OK,API Group 1-10,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64076,808,0,0
+1712512850893,789,GET Fetch Order by id,200,OK,API Group 1-6,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64077,789,0,0
+1712512851222,526,GET Get Product,200,OK,API Group 1-4,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123089,526,0,0
+1712512850912,904,GET Fetch Products,200,OK,API Group 1-3,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,904,0,0
+1712512850547,1286,POST Create Order,201,Created,API Group 1-2,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1286,0,0
+1712512850883,953,PUT Edit Order by id,200,OK,API Group 1-8,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64075,953,0,0
+1712512851220,651,GET Fetch Products,200,OK,API Group 1-7,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,651,0,0
+1712512850883,1000,PUT Edit Order by id,200,OK,API Group 1-9,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64074,1000,0,0
+1712512851816,138,GET Fetch Product by id,200,OK,API Group 1-3,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123088,138,0,0
+1712512851871,164,GET Fetch Product by id,200,OK,API Group 1-7,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123087,164,0,0
+1712512851672,372,GET Fetch Order by id,200,OK,API Group 1-5,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64078,372,0,0
+1712512851834,286,GET Fetch Orders,200,OK,API Group 1-2,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,286,0,0
+1712512851646,605,POST Create Order,201,Created,API Group 1-1,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,605,0,0
+1712512851676,678,PUT Edit Order by id,200,OK,API Group 1-10,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64076,678,0,0
+1712512851682,730,PUT Edit Order by id,200,OK,API Group 1-6,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64077,730,0,0
+1712512852120,313,GET Fetch Order by id,200,OK,API Group 1-2,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64079,313,0,0
+1712512851748,692,GET Fetch Products,200,OK,API Group 1-4,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,692,0,0
+1712512852440,134,GET Fetch Product by id,200,OK,API Group 1-4,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123089,134,0,0
+1712512851954,635,POST Create Order,201,Created,API Group 1-3,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,635,0,0
+1712512852035,559,POST Create Order,201,Created,API Group 1-7,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,559,0,0
+1712512851883,720,DEL Delete Product,200,OK,API Group 1-9,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123083,720,0,0
+1712512852252,356,GET Fetch Orders,200,OK,API Group 1-1,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,356,0,0
+1712512851837,774,DEL Delete Product,200,OK,API Group 1-8,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123082,774,0,0
+1712512852044,569,PUT Edit Order by id,200,OK,API Group 1-5,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64078,569,0,0
+1712512852589,469,GET Fetch Orders,200,OK,API Group 1-3,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,469,0,0
+1712512852603,468,POST Register,201,Created,API Group 1-9,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,468,0,0
+1712512852595,479,GET Fetch Orders,200,OK,API Group 1-7,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,479,0,0
+1712512852611,474,POST Register,201,Created,API Group 1-8,text,true,,582,1355,10,10,https://market-final-project.binaracademy.org/auth/register,474,0,0
+1712512852608,479,GET Fetch Order by id,200,OK,API Group 1-1,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64080,479,0,0
+1712512852354,740,DEL Delete Product,200,OK,API Group 1-10,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123080,740,0,0
+1712512852412,689,DEL Delete Product,200,OK,API Group 1-6,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123081,689,0,0
+1712512852433,674,PUT Edit Order by id,200,OK,API Group 1-2,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64079,673,0,0
+1712512852574,546,POST Create Order,201,Created,API Group 1-4,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,546,0,0
+1712512853071,300,POST Login,201,Created,API Group 1-9,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,300,0,0
+1712512853085,368,POST Login,201,Created,API Group 1-8,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,368,0,0
+1712512852614,997,DEL Delete Product,200,OK,API Group 1-5,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123084,997,0,0
+1712512853058,554,GET Fetch Order by id,200,OK,API Group 1-3,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64081,554,0,0
+1712512853094,523,POST Register,201,Created,API Group 1-10,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,523,0,0
+1712512853074,544,GET Fetch Order by id,200,OK,API Group 1-7,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64082,544,0,0
+1712512853101,518,POST Register,201,Created,API Group 1-6,text,true,,582,1347,10,10,https://market-final-project.binaracademy.org/auth/register,518,0,0
+1712512853120,508,GET Fetch Orders,200,OK,API Group 1-4,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,508,0,0
+1712512853088,552,PUT Edit Order by id,200,OK,API Group 1-1,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64080,552,0,0
+1712512853618,538,POST Login,201,Created,API Group 1-10,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,538,0,0
+1712512853619,716,POST Login,201,Created,API Group 1-6,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,716,0,0
+1712512853107,1233,DEL Delete Product,200,OK,API Group 1-2,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123085,1233,0,0
+1712512853611,734,POST Register,201,Created,API Group 1-5,text,true,,582,1395,10,10,https://market-final-project.binaracademy.org/auth/register,733,0,0
+1712512853628,722,GET Fetch Order by id,200,OK,API Group 1-4,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64083,722,0,0
+1712512853453,922,POST  Create Product,201,Created,API Group 1-8,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,922,0,0
+1712512853372,1004,POST  Create Product,201,Created,API Group 1-9,text,true,,665,26025,10,10,https://market-final-project.binaracademy.org/seller/product,1004,0,0
+1712512853618,762,PUT Edit Order by id,200,OK,API Group 1-7,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64082,762,0,0
+1712512853612,769,PUT Edit Order by id,200,OK,API Group 1-3,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64081,769,0,0
+1712512853640,771,DEL Delete Product,200,OK,API Group 1-1,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123086,771,0,0
+1712512854345,1837,POST Login,201,Created,API Group 1-5,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1837,0,0
+1712512854341,2803,POST Register,201,Created,API Group 1-2,text,true,,582,1347,10,10,https://market-final-project.binaracademy.org/auth/register,2803,0,0
+1712512854156,3007,POST  Create Product,201,Created,API Group 1-10,text,true,,665,26033,10,10,https://market-final-project.binaracademy.org/seller/product,3007,0,0
+1712512854412,2752,POST Register,201,Created,API Group 1-1,text,true,,582,1379,10,10,https://market-final-project.binaracademy.org/auth/register,2752,0,0
+1712512857144,1008,POST Login,201,Created,API Group 1-2,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1008,0,0
+1712512854376,3779,GET List Product,200,OK,API Group 1-9,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3779,0,0
+1712512854375,3782,GET List Product,200,OK,API Group 1-8,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3782,0,0
+1712512857164,1072,POST Login,201,Created,API Group 1-1,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1072,0,0
+1712512854335,3925,POST  Create Product,201,Created,API Group 1-6,text,true,,665,26009,10,10,https://market-final-project.binaracademy.org/seller/product,3925,0,0
+1712512857163,2102,GET List Product,200,OK,API Group 1-10,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2102,0,0
+1712512854350,4920,PUT Edit Order by id,200,OK,API Group 1-4,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64083,4920,0,0
+1712512856182,3110,POST  Create Product,201,Created,API Group 1-5,text,true,,665,26009,10,10,https://market-final-project.binaracademy.org/seller/product,3110,0,0
+1712512854381,4914,DEL Delete Product,200,OK,API Group 1-3,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123088,4914,0,0
+1712512854380,4917,DEL Delete Product,200,OK,API Group 1-7,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123087,4917,0,0
+1712512858261,2802,GET List Product,200,OK,API Group 1-6,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2802,0,0
+1712512859297,1772,POST Register,201,Created,API Group 1-3,text,true,,582,1379,10,10,https://market-final-project.binaracademy.org/auth/register,1772,0,0
+1712512859298,1773,POST Register,201,Created,API Group 1-7,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,1773,0,0
+1712512858155,2936,GET Get Product,200,OK,API Group 1-9,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123091,2936,0,0
+1712512858158,2937,GET Get Product,200,OK,API Group 1-8,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123090,2937,0,0
+1712512859266,1836,GET Get Product,200,OK,API Group 1-10,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123092,1836,0,0
+1712512858153,2952,POST  Create Product,201,Created,API Group 1-2,text,true,,665,26017,10,10,https://market-final-project.binaracademy.org/seller/product,2952,0,0
+1712512858236,2878,POST  Create Product,201,Created,API Group 1-1,text,true,,665,26041,10,10,https://market-final-project.binaracademy.org/seller/product,2878,0,0
+1712512859294,1956,GET List Product,200,OK,API Group 1-5,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,1956,0,0
+1712512861071,281,POST Login,201,Created,API Group 1-7,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,281,0,0
+1712512861069,361,POST Login,201,Created,API Group 1-3,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,361,0,0
+1712512861096,1960,GET Fetch Products,200,OK,API Group 1-8,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1960,0,0
+1712512861092,2267,GET Fetch Products,200,OK,API Group 1-9,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2267,0,0
+1712512861102,2274,GET Fetch Products,200,OK,API Group 1-10,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2274,0,0
+1712512859271,4108,DEL Delete Product,200,OK,API Group 1-4,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123089,4108,0,0
+1712512861065,2357,GET Get Product,200,OK,API Group 1-6,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123093,2357,0,0
+1712512863057,782,GET Fetch Product by id,200,OK,API Group 1-8,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123090,782,0,0
+1712512863360,481,GET Fetch Product by id,200,OK,API Group 1-9,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123091,481,0,0
+1712512861106,2736,GET List Product,200,OK,API Group 1-2,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2736,0,0
+1712512861115,2728,GET List Product,200,OK,API Group 1-1,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2728,0,0
+1712512863377,1023,GET Fetch Product by id,200,OK,API Group 1-10,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123092,1023,0,0
+1712512863422,1071,GET Fetch Products,200,OK,API Group 1-6,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1071,0,0
+1712512863380,1120,POST Register,201,Created,API Group 1-4,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,1120,0,0
+1712512861250,3291,GET Get Product,200,OK,API Group 1-5,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123094,3291,0,0
+1712512861431,3129,POST  Create Product,201,Created,API Group 1-3,text,true,,665,26057,10,10,https://market-final-project.binaracademy.org/seller/product,3129,0,0
+1712512861352,3339,POST  Create Product,201,Created,API Group 1-7,text,true,,665,26041,10,10,https://market-final-project.binaracademy.org/seller/product,3339,0,0
+1712512864493,1677,GET Fetch Product by id,200,OK,API Group 1-6,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123093,1677,0,0
+1712512864501,1751,POST Login,201,Created,API Group 1-4,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1751,0,0
+1712512863843,2470,GET Get Product,200,OK,API Group 1-2,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123095,2470,0,0
+1712512863843,2484,GET Get Product,200,OK,API Group 1-1,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123096,2484,0,0
+1712512864541,1943,GET Fetch Products,200,OK,API Group 1-5,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1943,0,0
+1712512864560,1972,GET List Product,200,OK,API Group 1-3,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,1972,0,0
+1712512866314,937,GET Fetch Products,200,OK,API Group 1-2,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,937,0,0
+1712512866327,926,GET Fetch Products,200,OK,API Group 1-1,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,926,0,0
+1712512864691,2563,GET List Product,200,OK,API Group 1-7,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,2563,0,0
+1712512863839,3424,POST Create Order,201,Created,API Group 1-8,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3423,0,0
+1712512863841,3423,POST Create Order,201,Created,API Group 1-9,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3423,0,0
+1712512864400,2866,POST Create Order,201,Created,API Group 1-10,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2866,0,0
+1712512866485,794,GET Fetch Product by id,200,OK,API Group 1-5,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123094,794,0,0
+1712512867251,95,GET Fetch Product by id,200,OK,API Group 1-2,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123095,95,0,0
+1712512867253,112,GET Fetch Product by id,200,OK,API Group 1-1,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123096,112,0,0
+1712512866170,2084,POST Create Order,201,Created,API Group 1-6,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2084,0,0
+1712512867264,1030,GET Fetch Orders,200,OK,API Group 1-9,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1030,0,0
+1712512867263,1036,GET Fetch Orders,200,OK,API Group 1-8,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1036,0,0
+1712512867266,1076,GET Fetch Orders,200,OK,API Group 1-10,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1076,0,0
+1712512867254,1113,GET Get Product,200,OK,API Group 1-7,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123098,1113,0,0
+1712512866532,1836,GET Get Product,200,OK,API Group 1-3,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123097,1836,0,0
+1712512866252,2118,POST  Create Product,201,Created,API Group 1-4,text,true,,665,26073,10,10,https://market-final-project.binaracademy.org/seller/product,2118,0,0
+1712512868294,625,GET Fetch Order by id,200,OK,API Group 1-9,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64085,625,0,0
+1712512868342,577,GET Fetch Order by id,200,OK,API Group 1-10,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64086,577,0,0
+1712512868300,624,GET Fetch Order by id,200,OK,API Group 1-8,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64084,624,0,0
+1712512868255,672,GET Fetch Orders,200,OK,API Group 1-6,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,672,0,0
+1712512868367,567,GET Fetch Products,200,OK,API Group 1-7,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,567,0,0
+1712512867279,1666,POST Create Order,201,Created,API Group 1-5,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1666,0,0
+1712512868368,580,GET Fetch Products,200,OK,API Group 1-3,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,580,0,0
+1712512867347,1627,POST Create Order,201,Created,API Group 1-2,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1627,0,0
+1712512868370,872,GET List Product,200,OK,API Group 1-4,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,872,0,0
+1712512868924,348,PUT Edit Order by id,200,OK,API Group 1-8,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64084,348,0,0
+1712512868927,345,GET Fetch Order by id,200,OK,API Group 1-6,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64087,345,0,0
+1712512868919,353,PUT Edit Order by id,200,OK,API Group 1-10,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64086,353,0,0
+1712512868934,363,GET Fetch Product by id,200,OK,API Group 1-7,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123098,363,0,0
+1712512868919,379,PUT Edit Order by id,200,OK,API Group 1-9,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64085,379,0,0
+1712512868948,350,GET Fetch Product by id,200,OK,API Group 1-3,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123097,350,0,0
+1712512868945,364,GET Fetch Orders,200,OK,API Group 1-5,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,364,0,0
+1712512868974,348,GET Fetch Orders,200,OK,API Group 1-2,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,348,0,0
+1712512867365,2075,POST Create Order,201,Created,API Group 1-1,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2075,0,0
+1712512869309,452,GET Fetch Order by id,200,OK,API Group 1-5,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64088,452,0,0
+1712512869242,534,GET Get Product,200,OK,API Group 1-4,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123099,534,0,0
+1712512869298,557,POST Create Order,201,Created,API Group 1-3,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,557,0,0
+1712512869322,549,GET Fetch Order by id,200,OK,API Group 1-2,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64089,549,0,0
+1712512869441,438,GET Fetch Orders,200,OK,API Group 1-1,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,438,0,0
+1712512869272,607,PUT Edit Order by id,200,OK,API Group 1-6,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64087,607,0,0
+1712512869298,603,DEL Delete Product,200,OK,API Group 1-9,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123091,603,0,0
+1712512869297,628,POST Create Order,201,Created,API Group 1-7,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,628,0,0
+1712512869272,660,DEL Delete Product,200,OK,API Group 1-10,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123092,660,0,0
+1712512869272,660,DEL Delete Product,200,OK,API Group 1-8,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123090,660,0,0
+1712512869855,530,GET Fetch Orders,200,OK,API Group 1-3,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,530,0,0
+1712512869901,542,POST Register,201,Created,API Group 1-9,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,542,0,0
+1712512869926,520,GET Fetch Orders,200,OK,API Group 1-7,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,520,0,0
+1712512869777,751,GET Fetch Products,200,OK,API Group 1-4,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,751,0,0
+1712512869932,599,POST Register,201,Created,API Group 1-10,text,true,,582,1363,10,10,https://market-final-project.binaracademy.org/auth/register,599,0,0
+1712512869932,602,POST Register,201,Created,API Group 1-8,text,true,,582,1371,10,10,https://market-final-project.binaracademy.org/auth/register,602,0,0
+1712512869761,783,PUT Edit Order by id,200,OK,API Group 1-5,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64088,783,0,0
+1712512869872,678,PUT Edit Order by id,200,OK,API Group 1-2,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64089,678,0,0
+1712512869879,718,GET Fetch Order by id,200,OK,API Group 1-1,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64090,718,0,0
+1712512870529,87,GET Fetch Product by id,200,OK,API Group 1-4,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123099,87,0,0
+1712512870444,348,POST Login,201,Created,API Group 1-9,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,348,0,0
+1712512870531,343,POST Login,201,Created,API Group 1-10,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,343,0,0
+1712512869879,999,DEL Delete Product,200,OK,API Group 1-6,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123093,999,0,0
+1712512870534,423,POST Login,201,Created,API Group 1-8,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,423,0,0
+1712512870386,572,GET Fetch Order by id,200,OK,API Group 1-3,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64091,572,0,0
+1712512870446,517,GET Fetch Order by id,200,OK,API Group 1-7,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64092,517,0,0
+1712512870551,935,DEL Delete Product,200,OK,API Group 1-2,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123095,935,0,0
+1712512870598,892,PUT Edit Order by id,200,OK,API Group 1-1,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64090,892,0,0
+1712512870878,756,POST Register,201,Created,API Group 1-6,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,756,0,0
+1712512870544,1129,DEL Delete Product,200,OK,API Group 1-5,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123094,1129,0,0
+1712512870616,1077,POST Create Order,201,Created,API Group 1-4,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1077,0,0
+1712512870793,915,POST  Create Product,201,Created,API Group 1-9,text,true,,665,26033,10,10,https://market-final-project.binaracademy.org/seller/product,915,0,0
+1712512870874,840,POST  Create Product,201,Created,API Group 1-10,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,840,0,0
+1712512870959,758,PUT Edit Order by id,200,OK,API Group 1-3,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64091,758,0,0
+1712512870963,764,PUT Edit Order by id,200,OK,API Group 1-7,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64092,764,0,0
+1712512870958,770,POST  Create Product,201,Created,API Group 1-8,text,true,,665,26057,10,10,https://market-final-project.binaracademy.org/seller/product,770,0,0
+1712512871635,1167,POST Login,201,Created,API Group 1-6,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1167,0,0
+1712512871487,2951,POST Register,201,Created,API Group 1-2,text,true,,582,1363,10,10,https://market-final-project.binaracademy.org/auth/register,2951,0,0
+1712512871674,2769,POST Register,201,Created,API Group 1-5,text,true,,582,1379,10,10,https://market-final-project.binaracademy.org/auth/register,2769,0,0
+1712512871693,2786,GET Fetch Orders,200,OK,API Group 1-4,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,2786,0,0
+1712512871714,3074,GET List Product,200,OK,API Group 1-10,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3074,0,0
+1712512871708,3082,GET List Product,200,OK,API Group 1-9,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3082,0,0
+1712512874438,431,POST Login,201,Created,API Group 1-2,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,431,0,0
+1712512874443,507,POST Login,201,Created,API Group 1-5,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,507,0,0
+1712512871728,3228,GET List Product,200,OK,API Group 1-8,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3228,0,0
+1712512874479,3117,GET Fetch Order by id,200,OK,API Group 1-4,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64093,3117,0,0
+1712512871490,6110,DEL Delete Product,200,OK,API Group 1-1,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123096,6110,0,0
+1712512871717,5902,DEL Delete Product,200,OK,API Group 1-3,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123097,5902,0,0
+1712512871727,5893,DEL Delete Product,200,OK,API Group 1-7,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123098,5893,0,0
+1712512872802,4993,POST  Create Product,201,Created,API Group 1-6,text,true,,665,26017,10,10,https://market-final-project.binaracademy.org/seller/product,4993,0,0
+1712512877600,4995,POST Register,201,Created,API Group 1-1,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,4995,0,0
+1712512877620,4978,POST Register,201,Created,API Group 1-7,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,4978,0,0
+1712512877619,4979,POST Register,201,Created,API Group 1-3,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,4979,0,0
+1712512874956,7847,GET Get Product,200,OK,API Group 1-8,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123102,7847,0,0
+1712512874788,8015,GET Get Product,200,OK,API Group 1-10,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123101,8015,0,0
+1712512874791,8015,GET Get Product,200,OK,API Group 1-9,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123100,8015,0,0
+1712512874870,7951,POST  Create Product,201,Created,API Group 1-2,text,true,,665,26001,10,10,https://market-final-project.binaracademy.org/seller/product,7951,0,0
+1712512874950,7884,POST  Create Product,201,Created,API Group 1-5,text,true,,665,25993,10,10,https://market-final-project.binaracademy.org/seller/product,7884,0,0
+1712512877597,5238,PUT Edit Order by id,200,OK,API Group 1-4,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64093,5238,0,0
+1712512882598,714,POST Login,201,Created,API Group 1-3,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,714,0,0
+1712512882598,981,POST Login,201,Created,API Group 1-7,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,981,0,0
+1712512882596,1250,POST Login,201,Created,API Group 1-1,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1250,0,0
+1712512882803,6374,GET Fetch Products,200,OK,API Group 1-10,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,6374,0,0
+1712512882803,6378,GET Fetch Products,200,OK,API Group 1-8,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,6378,0,0
+1712512877795,12498,GET List Product,200,OK,API Group 1-6,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,12498,0,0
+1712512882807,7489,GET Fetch Products,200,OK,API Group 1-9,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,7489,0,0
+1712512882822,7495,GET List Product,200,OK,API Group 1-2,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,7495,0,0
+1712512882835,7485,GET List Product,200,OK,API Group 1-5,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,7485,0,0
+1712512889177,1219,GET Fetch Product by id,200,OK,API Group 1-10,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123101,1219,0,146
+1712512889181,1366,GET Fetch Product by id,200,OK,API Group 1-8,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123102,1366,0,143
+1712512890295,2008,GET Fetch Product by id,200,OK,API Group 1-9,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123100,2008,0,70
+1712512882835,11716,DEL Delete Product,200,OK,API Group 1-4,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123099,11716,0,0
+1712512890319,4278,GET Get Product,200,OK,API Group 1-5,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123105,4278,0,60
+1712512890294,4318,GET Get Product,200,OK,API Group 1-6,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123103,4318,0,69
+1712512890316,4301,GET Get Product,200,OK,API Group 1-2,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123104,4301,0,67
+1712512883311,11314,POST  Create Product,201,Created,API Group 1-3,text,true,,665,26017,10,10,https://market-final-project.binaracademy.org/seller/product,11314,0,0
+1712512883578,11049,POST  Create Product,201,Created,API Group 1-7,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,11049,0,0
+1712512883845,10787,POST  Create Product,201,Created,API Group 1-1,text,true,,665,26041,10,10,https://market-final-project.binaracademy.org/seller/product,10787,0,0
+1712512894598,7825,GET Fetch Products,200,OK,API Group 1-5,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,7825,0,0
+1712512894613,8221,GET Fetch Products,200,OK,API Group 1-6,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,8221,0,0
+1712512894551,8446,POST Register,201,Created,API Group 1-4,text,true,,582,1363,10,10,https://market-final-project.binaracademy.org/auth/register,8446,0,66
+1712512890396,12602,POST Create Order,201,Created,API Group 1-10,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,12602,0,0
+1712512892303,10704,POST Create Order,201,Created,API Group 1-9,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,10704,0,0
+1712512890548,12460,POST Create Order,201,Created,API Group 1-8,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,12460,0,0
+1712512902834,231,GET Fetch Product by id,200,OK,API Group 1-6,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123103,231,0,0
+1712512902424,642,GET Fetch Product by id,200,OK,API Group 1-5,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123105,642,0,0
+1712512894629,8565,GET List Product,200,OK,API Group 1-7,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,8565,0,194
+1712512894633,9416,GET List Product,200,OK,API Group 1-1,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,9416,0,196
+1712512894618,10677,GET Fetch Products,200,OK,API Group 1-2,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,10677,0,0
+1712512894626,10672,GET List Product,200,OK,API Group 1-3,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,10672,0,202
+1712512902997,3564,POST Login,201,Created,API Group 1-4,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3564,0,0
+1712512903000,3581,GET Fetch Orders,200,OK,API Group 1-10,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,3581,0,0
+1712512903009,3592,GET Fetch Orders,200,OK,API Group 1-9,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,3592,0,0
+1712512903009,3800,GET Fetch Orders,200,OK,API Group 1-8,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,3800,0,0
+1712512905294,1523,GET Fetch Product by id,200,OK,API Group 1-2,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123104,1523,0,0
+1712512904048,2790,GET Get Product,200,OK,API Group 1-1,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123108,2790,0,0
+1712512903194,3658,GET Get Product,200,OK,API Group 1-7,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123107,3658,0,0
+1712512903066,3990,POST Create Order,201,Created,API Group 1-6,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3990,0,0
+1712512903066,4731,POST Create Order,201,Created,API Group 1-5,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,4731,0,0
+1712512906838,982,GET Fetch Products,200,OK,API Group 1-1,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,982,0,0
+1712512906581,1239,GET Fetch Order by id,200,OK,API Group 1-10,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64094,1239,0,0
+1712512906808,1016,GET Fetch Order by id,200,OK,API Group 1-8,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64095,1016,0,0
+1712512906600,1230,GET Fetch Order by id,200,OK,API Group 1-9,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64096,1230,0,0
+1712512905298,2552,GET Get Product,200,OK,API Group 1-3,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123106,2552,0,0
+1712512906852,3537,GET Fetch Products,200,OK,API Group 1-7,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,3537,0,0
+1712512907055,3361,GET Fetch Orders,200,OK,API Group 1-6,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,3361,0,0
+1712512907820,2619,GET Fetch Product by id,200,OK,API Group 1-1,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123108,2619,0,0
+1712512907796,2662,GET Fetch Orders,200,OK,API Group 1-5,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,2662,0,0
+1712512910389,133,GET Fetch Product by id,200,OK,API Group 1-7,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123107,133,0,0
+1712512906561,3965,POST  Create Product,201,Created,API Group 1-4,text,true,,665,26025,10,10,https://market-final-project.binaracademy.org/seller/product,3965,0,0
+1712512906817,3723,POST Create Order,201,Created,API Group 1-2,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3723,0,0
+1712512907850,3559,GET Fetch Products,200,OK,API Group 1-3,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,3559,0,0
+1712512910458,951,GET Fetch Order by id,200,OK,API Group 1-5,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64098,951,0,0
+1712512910416,1126,GET Fetch Order by id,200,OK,API Group 1-6,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64097,1126,0,0
+1712512907820,3723,PUT Edit Order by id,200,OK,API Group 1-10,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64094,3723,0,0
+1712512910527,1019,GET List Product,200,OK,API Group 1-4,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,1019,0,0
+1712512910541,1030,GET Fetch Orders,200,OK,API Group 1-2,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1030,0,0
+1712512907830,3971,PUT Edit Order by id,200,OK,API Group 1-9,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64096,3970,0,0
+1712512907825,3988,PUT Edit Order by id,200,OK,API Group 1-8,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64095,3988,0,0
+1712512910522,1324,POST Create Order,201,Created,API Group 1-7,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1324,0,0
+1712512911409,438,GET Fetch Product by id,200,OK,API Group 1-3,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123106,438,0,0
+1712512910440,1606,POST Create Order,201,Created,API Group 1-1,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1606,0,0
+1712512911571,484,GET Fetch Order by id,200,OK,API Group 1-2,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64099,484,0,0
+1712512911546,553,GET Get Product,200,OK,API Group 1-4,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123109,553,0,0
+1712512911410,824,PUT Edit Order by id,200,OK,API Group 1-5,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64098,824,0,0
+1712512911542,765,PUT Edit Order by id,200,OK,API Group 1-6,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64097,765,0,0
+1712512911543,823,DEL Delete Product,200,OK,API Group 1-10,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123101,823,0,0
+1712512911847,563,GET Fetch Orders,200,OK,API Group 1-7,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,563,0,0
+1712512912047,428,GET Fetch Orders,200,OK,API Group 1-1,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,428,0,0
+1712512912367,318,POST Register,201,Created,API Group 1-10,text,true,,582,1355,10,10,https://market-final-project.binaracademy.org/auth/register,318,0,0
+1712512911847,842,POST Create Order,201,Created,API Group 1-3,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,842,0,0
+1712512911801,895,DEL Delete Product,200,OK,API Group 1-9,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123100,895,0,0
+1712512912410,296,GET Fetch Order by id,200,OK,API Group 1-7,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64100,296,0,0
+1712512912055,666,PUT Edit Order by id,200,OK,API Group 1-2,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64099,666,0,0
+1712512912099,642,GET Fetch Products,200,OK,API Group 1-4,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,642,0,0
+1712512911813,929,DEL Delete Product,200,OK,API Group 1-8,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123102,929,0,0
+1712512912685,296,POST Login,201,Created,API Group 1-10,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,296,0,0
+1712512912741,330,GET Fetch Product by id,200,OK,API Group 1-4,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123109,330,0,0
+1712512912234,1063,DEL Delete Product,200,OK,API Group 1-5,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123105,1063,0,0
+1712512912476,825,GET Fetch Order by id,200,OK,API Group 1-1,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64101,825,0,0
+1712512912689,614,GET Fetch Orders,200,OK,API Group 1-3,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,614,0,0
+1712512912697,607,POST Register,201,Created,API Group 1-9,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,607,0,0
+1712512912307,999,DEL Delete Product,200,OK,API Group 1-6,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123103,999,0,0
+1712512912743,565,POST Register,201,Created,API Group 1-8,text,true,,582,1363,10,10,https://market-final-project.binaracademy.org/auth/register,565,0,0
+1712512912706,619,PUT Edit Order by id,200,OK,API Group 1-7,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64100,619,0,0
+1712512913304,1276,POST Login,201,Created,API Group 1-9,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1276,0,0
+1712512913309,1537,POST Login,201,Created,API Group 1-8,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1537,0,0
+1712512912721,2583,DEL Delete Product,200,OK,API Group 1-2,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123104,2583,0,0
+1712512913298,2017,POST Register,201,Created,API Group 1-5,text,true,,582,1371,10,10,https://market-final-project.binaracademy.org/auth/register,2017,0,0
+1712512913303,2017,GET Fetch Order by id,200,OK,API Group 1-3,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64102,2017,0,0
+1712512913306,2014,POST Register,201,Created,API Group 1-6,text,true,,582,1395,10,10,https://market-final-project.binaracademy.org/auth/register,2014,0,0
+1712512912982,2366,POST  Create Product,201,Created,API Group 1-10,text,true,,665,25993,10,10,https://market-final-project.binaracademy.org/seller/product,2366,0,0
+1712512915316,3282,POST Login,201,Created,API Group 1-5,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3282,0,0
+1712512915321,3747,POST Login,201,Created,API Group 1-6,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3747,0,0
+1712512913301,7017,PUT Edit Order by id,200,OK,API Group 1-1,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64101,7017,0,0
+1712512915304,5026,POST Register,201,Created,API Group 1-2,text,true,,582,1403,10,10,https://market-final-project.binaracademy.org/auth/register,5026,0,0
+1712512913071,7263,POST Create Order,201,Created,API Group 1-4,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,7263,0,0
+1712512913325,7222,DEL Delete Product,200,OK,API Group 1-7,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123107,7222,0,0
+1712512915349,5202,GET List Product,200,OK,API Group 1-10,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,5202,0,0
+1712512920331,6982,POST Login,201,Created,API Group 1-2,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,6982,0,0
+1712512920335,8219,GET Fetch Orders,200,OK,API Group 1-4,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,8219,0,0
+1712512915321,13243,PUT Edit Order by id,200,OK,API Group 1-3,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64102,13243,0,0
+1712512914847,13728,POST  Create Product,201,Created,API Group 1-8,text,true,,665,26041,10,10,https://market-final-project.binaracademy.org/seller/product,13728,0,0
+1712512914580,13998,POST  Create Product,201,Created,API Group 1-9,text,true,,665,26057,10,10,https://market-final-project.binaracademy.org/seller/product,13998,0,0
+1712512919070,9519,POST  Create Product,201,Created,API Group 1-6,text,true,,665,26057,10,10,https://market-final-project.binaracademy.org/seller/product,9519,0,0
+1712512918599,9991,POST  Create Product,201,Created,API Group 1-5,text,true,,665,26041,10,10,https://market-final-project.binaracademy.org/seller/product,9991,0,0
+1712512920321,15736,DEL Delete Product,200,OK,API Group 1-1,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123108,15736,0,0
+1712512920548,15509,POST Register,201,Created,API Group 1-7,text,true,,582,1347,10,10,https://market-final-project.binaracademy.org/auth/register,15509,0,0
+1712512928577,7984,GET List Product,200,OK,API Group 1-8,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,7984,0,0
+1712512928554,8013,GET Fetch Order by id,200,OK,API Group 1-4,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64103,8013,0,0
+1712512920552,16046,GET Get Product,200,OK,API Group 1-10,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123110,16046,0,0
+1712512936056,1273,POST Login,201,Created,API Group 1-7,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1273,0,0
+1712512928589,8745,GET List Product,200,OK,API Group 1-6,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,8745,0,0
+1712512928590,8747,GET List Product,200,OK,API Group 1-5,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,8747,0,0
+1712512928579,8758,GET List Product,200,OK,API Group 1-9,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,8758,0,0
+1712512936598,5544,GET Fetch Products,200,OK,API Group 1-10,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,5544,0,0
+1712512927312,14835,POST  Create Product,201,Created,API Group 1-2,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,14835,0,0
+1712512936056,6092,POST Register,201,Created,API Group 1-1,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,6092,0,0
+1712512928565,13603,DEL Delete Product,200,OK,API Group 1-3,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123106,13603,0,0
+1712512936561,5646,GET Get Product,200,OK,API Group 1-8,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123111,5646,0,0
+1712512942143,158,GET Fetch Product by id,200,OK,API Group 1-10,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123110,158,0,0
+1712512942149,1201,POST Login,201,Created,API Group 1-1,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1201,0,0
+1712512942208,2218,GET Fetch Products,200,OK,API Group 1-8,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,2218,0,0
+1712512936566,8006,PUT Edit Order by id,200,OK,API Group 1-4,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64103,8006,0,0
+1712512942168,2409,POST Register,201,Created,API Group 1-3,text,true,,582,1379,10,10,https://market-final-project.binaracademy.org/auth/register,2409,0,0
+1712512937337,7266,GET Get Product,200,OK,API Group 1-9,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123112,7266,0,0
+1712512937333,7271,GET Get Product,200,OK,API Group 1-6,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123113,7271,0,0
+1712512937337,7274,GET Get Product,200,OK,API Group 1-5,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123114,7274,0,0
+1712512937329,7284,POST  Create Product,201,Created,API Group 1-7,text,true,,665,26001,10,10,https://market-final-project.binaracademy.org/seller/product,7284,0,0
+1712512944426,379,GET Fetch Product by id,200,OK,API Group 1-8,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123111,379,0,0
+1712512942148,5900,GET List Product,200,OK,API Group 1-2,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,5900,0,0
+1712512944578,3739,POST Login,201,Created,API Group 1-3,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3739,0,0
+1712512944605,6308,GET Fetch Products,200,OK,API Group 1-6,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,6308,0,0
+1712512944612,6303,GET Fetch Products,200,OK,API Group 1-5,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,6303,0,0
+1712512944604,7047,GET Fetch Products,200,OK,API Group 1-9,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,7047,0,0
+1712512943351,8300,POST  Create Product,201,Created,API Group 1-1,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,8300,0,0
+1712512942301,9351,POST Create Order,201,Created,API Group 1-10,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,9351,0,0
+1712512950915,891,GET Fetch Product by id,200,OK,API Group 1-5,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123114,891,0,165
+1712512948049,3760,GET Get Product,200,OK,API Group 1-2,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123115,3760,0,0
+1712512944614,7196,GET List Product,200,OK,API Group 1-7,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,7196,0,0
+1712512950916,1659,GET Fetch Product by id,200,OK,API Group 1-6,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123113,1659,0,168
+1712512944573,8976,DEL Delete Product,200,OK,API Group 1-4,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123109,8976,0,0
+1712512944805,8755,POST Create Order,201,Created,API Group 1-8,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,8755,0,0
+1712512951652,1967,GET Fetch Product by id,200,OK,API Group 1-9,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123112,1967,0,147
+1712512948317,5429,POST  Create Product,201,Created,API Group 1-3,text,true,,665,26025,10,10,https://market-final-project.binaracademy.org/seller/product,5429,0,0
+1712512951652,4787,GET List Product,200,OK,API Group 1-1,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4787,0,0
+1712512951809,4744,GET Fetch Products,200,OK,API Group 1-2,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,4744,0,243
+1712512951652,5175,GET Fetch Orders,200,OK,API Group 1-10,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,5175,0,148
+1712512953550,3304,POST Register,201,Created,API Group 1-4,text,true,,582,1363,10,10,https://market-final-project.binaracademy.org/auth/register,3304,0,0
+1712512951810,5250,GET Get Product,200,OK,API Group 1-7,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123116,5250,0,0
+1712512953561,3506,GET Fetch Orders,200,OK,API Group 1-8,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,3506,0,67
+1712512956553,570,GET Fetch Product by id,200,OK,API Group 1-2,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123115,570,0,0
+1712512951807,5491,POST Create Order,201,Created,API Group 1-5,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,5491,0,0
+1712512952575,4744,POST Create Order,201,Created,API Group 1-6,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,4743,0,0
+1712512956854,716,POST Login,201,Created,API Group 1-4,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,716,0,227
+1712512953747,3833,GET List Product,200,OK,API Group 1-3,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3833,0,0
+1712512956828,1857,GET Fetch Order by id,200,OK,API Group 1-10,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64104,1857,0,0
+1712512953619,5066,POST Create Order,201,Created,API Group 1-9,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,5066,0,0
+1712512957067,1621,GET Fetch Order by id,200,OK,API Group 1-8,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64105,1621,0,0
+1712512957060,1644,GET Fetch Products,200,OK,API Group 1-7,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1644,0,80
+1712512956439,2265,GET Get Product,200,OK,API Group 1-1,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123117,2265,0,143
+1712512957123,2444,POST Create Order,201,Created,API Group 1-2,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2444,0,0
+1712512958704,903,GET Fetch Product by id,200,OK,API Group 1-7,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123116,903,0,0
+1712512957319,2307,GET Fetch Orders,200,OK,API Group 1-6,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,2307,0,0
+1712512957299,2500,GET Fetch Orders,200,OK,API Group 1-5,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,2500,0,0
+1712512958704,3729,GET Fetch Products,200,OK,API Group 1-1,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,3729,0,0
+1712512957580,4890,GET Get Product,200,OK,API Group 1-3,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123118,4890,0,253
+1712512958685,3811,GET Fetch Orders,200,OK,API Group 1-9,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,3811,0,0
+1712512957570,5002,POST  Create Product,201,Created,API Group 1-4,text,true,,665,25993,10,10,https://market-final-project.binaracademy.org/seller/product,5002,0,0
+1712512962433,146,GET Fetch Product by id,200,OK,API Group 1-1,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123117,146,0,0
+1712512958687,3936,PUT Edit Order by id,200,OK,API Group 1-8,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64105,3936,0,0
+1712512959567,3090,GET Fetch Orders,200,OK,API Group 1-2,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,3090,0,0
+1712512959625,3150,GET Fetch Order by id,200,OK,API Group 1-6,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64107,3150,0,0
+1712512958685,4132,PUT Edit Order by id,200,OK,API Group 1-10,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64104,4132,0,0
+1712512962470,1091,GET Fetch Products,200,OK,API Group 1-3,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1091,0,0
+1712512959799,3767,GET Fetch Order by id,200,OK,API Group 1-5,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64106,3767,0,0
+1712512962497,1071,GET Fetch Order by id,200,OK,API Group 1-9,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64108,1071,0,0
+1712512962658,916,GET Fetch Order by id,200,OK,API Group 1-2,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64109,916,0,0
+1712512963562,264,GET Fetch Product by id,200,OK,API Group 1-3,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123118,264,0,0
+1712512962571,1259,GET List Product,200,OK,API Group 1-4,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,1259,0,0
+1712512959608,4448,POST Create Order,201,Created,API Group 1-7,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,4448,0,0
+1712512962579,1499,POST Create Order,201,Created,API Group 1-1,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1499,0,0
+1712512962776,1322,PUT Edit Order by id,200,OK,API Group 1-6,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64107,1322,0,0
+1712512963566,540,PUT Edit Order by id,200,OK,API Group 1-5,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64106,540,0,0
+1712512962623,1493,DEL Delete Product,200,OK,API Group 1-8,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123111,1493,0,0
+1712512963568,560,PUT Edit Order by id,200,OK,API Group 1-9,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64108,560,0,0
+1712512963575,561,PUT Edit Order by id,200,OK,API Group 1-2,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64109,561,0,0
+1712512964079,276,GET Fetch Orders,200,OK,API Group 1-1,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,276,0,0
+1712512964056,309,GET Fetch Orders,200,OK,API Group 1-7,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,309,0,0
+1712512962818,1572,DEL Delete Product,200,OK,API Group 1-10,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123110,1572,0,0
+1712512963830,681,GET Get Product,200,OK,API Group 1-4,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123119,681,0,0
+1712512964512,587,GET Fetch Products,200,OK,API Group 1-4,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,587,0,0
+1712512964116,986,POST Register,201,Created,API Group 1-8,text,true,,582,1395,10,10,https://market-final-project.binaracademy.org/auth/register,986,0,0
+1712512964356,747,GET Fetch Order by id,200,OK,API Group 1-1,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64111,747,0,0
+1712512964365,742,GET Fetch Order by id,200,OK,API Group 1-7,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64110,742,0,0
+1712512964390,910,POST Register,201,Created,API Group 1-10,text,true,,582,1363,10,10,https://market-final-project.binaracademy.org/auth/register,910,0,0
+1712512963826,1483,POST Create Order,201,Created,API Group 1-3,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1483,0,0
+1712512965099,349,GET Fetch Product by id,200,OK,API Group 1-4,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123119,349,0,0
+1712512965103,502,POST Login,201,Created,API Group 1-8,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,502,0,0
+1712512964106,1501,DEL Delete Product,200,OK,API Group 1-5,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123114,1501,0,0
+1712512964136,1472,DEL Delete Product,200,OK,API Group 1-2,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123115,1472,0,0
+1712512965300,766,POST Login,201,Created,API Group 1-10,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,766,0,0
+1712512964128,1943,DEL Delete Product,200,OK,API Group 1-9,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123112,1943,0,0
+1712512964098,1973,DEL Delete Product,200,OK,API Group 1-6,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123113,1973,0,0
+1712512965310,794,GET Fetch Orders,200,OK,API Group 1-3,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,794,0,0
+1712512965107,1012,PUT Edit Order by id,200,OK,API Group 1-7,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64110,1012,0,0
+1712512965104,1195,PUT Edit Order by id,200,OK,API Group 1-1,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64111,1195,0,0
+1712512965608,1237,POST Register,201,Created,API Group 1-2,text,true,,582,1363,10,10,https://market-final-project.binaracademy.org/auth/register,1237,0,0
+1712512965607,1237,POST Register,201,Created,API Group 1-5,text,true,,582,1387,10,10,https://market-final-project.binaracademy.org/auth/register,1237,0,0
+1712512965449,2123,POST Create Order,201,Created,API Group 1-4,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2123,0,0
+1712512966845,4466,POST Login,201,Created,API Group 1-5,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,4466,0,0
+1712512966845,4736,POST Login,201,Created,API Group 1-2,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,4736,0,0
+1712512966072,5514,POST Register,201,Created,API Group 1-9,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,5514,0,0
+1712512966104,6226,GET Fetch Order by id,200,OK,API Group 1-3,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64112,6226,0,0
+1712512966072,6263,POST Register,201,Created,API Group 1-6,text,true,,582,1403,10,10,https://market-final-project.binaracademy.org/auth/register,6263,0,0
+1712512965606,6742,POST  Create Product,201,Created,API Group 1-8,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,6742,0,0
+1712512967573,4782,GET Fetch Orders,200,OK,API Group 1-4,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,4781,0,0
+1712512966066,6483,POST  Create Product,201,Created,API Group 1-10,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,6483,0,0
+1712512971588,1231,POST Login,201,Created,API Group 1-9,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1231,0,0
+1712512966300,11287,DEL Delete Product,200,OK,API Group 1-1,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123117,11287,0,0
+1712512966120,11476,DEL Delete Product,200,OK,API Group 1-7,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123116,11476,0,0
+1712512972337,5738,POST Login,201,Created,API Group 1-6,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,5738,0,0
+1712512972356,12725,GET Fetch Order by id,200,OK,API Group 1-4,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64113,12725,0,0
+1712512972350,12738,GET List Product,200,OK,API Group 1-8,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,12738,0,0
+1712512972551,12537,GET List Product,200,OK,API Group 1-10,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,12537,0,0
+1712512977587,7979,POST Register,201,Created,API Group 1-1,text,true,,582,1347,10,10,https://market-final-project.binaracademy.org/auth/register,7979,0,0
+1712512971313,14260,POST  Create Product,201,Created,API Group 1-5,text,true,,665,26041,10,10,https://market-final-project.binaracademy.org/seller/product,14260,0,0
+1712512977596,7976,POST Register,201,Created,API Group 1-7,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,7976,0,0
+1712512971582,13996,POST  Create Product,201,Created,API Group 1-2,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,13996,0,0
+1712512972820,12777,POST  Create Product,201,Created,API Group 1-9,text,true,,665,26073,10,10,https://market-final-project.binaracademy.org/seller/product,12777,0,0
+1712512972331,13268,PUT Edit Order by id,200,OK,API Group 1-3,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64112,13268,0,0
+1712512985574,3491,POST Login,201,Created,API Group 1-7,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3491,0,0
+1712512985567,3763,POST Login,201,Created,API Group 1-1,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3763,0,0
+1712512985088,6470,GET Get Product,200,OK,API Group 1-8,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123120,6470,0,0
+1712512985573,5986,GET List Product,200,OK,API Group 1-5,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,5986,0,0
+1712512985597,5966,GET List Product,200,OK,API Group 1-9,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,5966,0,0
+1712512985578,5985,GET List Product,200,OK,API Group 1-2,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,5985,0,0
+1712512978074,13502,POST  Create Product,201,Created,API Group 1-6,text,true,,665,25993,10,10,https://market-final-project.binaracademy.org/seller/product,13502,0,0
+1712512985089,6489,GET Get Product,200,OK,API Group 1-10,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123121,6489,0,0
+1712512985083,6497,PUT Edit Order by id,200,OK,API Group 1-4,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64113,6497,0,0
+1712512991557,3251,GET Fetch Products,200,OK,API Group 1-8,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,3251,0,0
+1712512991578,5001,GET Fetch Products,200,OK,API Group 1-10,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,5001,0,0
+1712512991558,5093,GET Get Product,200,OK,API Group 1-5,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123122,5093,0,0
+1712512991562,5151,GET Get Product,200,OK,API Group 1-2,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123123,5151,0,0
+1712512996580,227,GET Fetch Product by id,200,OK,API Group 1-10,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123121,227,0,0
+1712512985599,11208,DEL Delete Product,200,OK,API Group 1-3,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123118,11208,0,0
+1712512994809,1999,GET Fetch Product by id,200,OK,API Group 1-8,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123120,1999,0,0
+1712512991577,5232,GET List Product,200,OK,API Group 1-6,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,5232,0,0
+1712512991562,5248,GET Get Product,200,OK,API Group 1-9,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123124,5248,0,0
+1712512989329,13086,POST  Create Product,201,Created,API Group 1-1,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,13086,0,0
+1712512989064,13501,POST  Create Product,201,Created,API Group 1-7,text,true,,665,26001,10,10,https://market-final-project.binaracademy.org/seller/product,13501,0,0
+1712512996653,6203,GET Fetch Products,200,OK,API Group 1-5,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,6203,0,0
+1712512996715,6340,GET Fetch Products,200,OK,API Group 1-2,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,6340,0,0
+1712512996807,6256,POST Register,201,Created,API Group 1-3,text,true,,582,1371,10,10,https://market-final-project.binaracademy.org/auth/register,6256,0,0
+1712512991580,11729,DEL Delete Product,200,OK,API Group 1-4,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123119,11729,0,0
+1712513002855,502,GET Fetch Product by id,200,OK,API Group 1-5,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123122,502,0,0
+1712513003054,306,GET Fetch Product by id,200,OK,API Group 1-2,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123123,306,0,0
+1712512996811,6743,GET Fetch Products,200,OK,API Group 1-9,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,6743,0,0
+1712512996811,6762,GET Get Product,200,OK,API Group 1-6,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123125,6762,0,0
+1712513003062,794,POST Login,201,Created,API Group 1-3,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,794,0,0
+1712513002415,1903,GET List Product,200,OK,API Group 1-1,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,1903,0,0
+1712513002565,1756,GET List Product,200,OK,API Group 1-7,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,1756,0,0
+1712513003554,769,GET Fetch Product by id,200,OK,API Group 1-9,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123124,769,0,0
+1712513003309,3249,POST Register,201,Created,API Group 1-4,text,true,,582,1387,10,10,https://market-final-project.binaracademy.org/auth/register,3249,0,0
+1712513003573,3001,GET Fetch Products,200,OK,API Group 1-6,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,3001,0,0
+1712512996809,9772,POST Create Order,201,Created,API Group 1-8,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,9772,0,0
+1712512996807,9774,POST Create Order,201,Created,API Group 1-10,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,9774,0,0
+1712513006574,735,GET Fetch Product by id,200,OK,API Group 1-6,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123125,735,0,0
+1712513006559,1019,POST Login,201,Created,API Group 1-4,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1019,0,0
+1712513003357,4225,POST Create Order,201,Created,API Group 1-5,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,4225,0,0
+1712513003360,4227,POST Create Order,201,Created,API Group 1-2,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,4227,0,0
+1712513006581,1008,GET Fetch Orders,200,OK,API Group 1-8,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1008,0,0
+1712513006582,1026,GET Fetch Orders,200,OK,API Group 1-10,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1026,0,0
+1712513004319,3485,GET Get Product,200,OK,API Group 1-1,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123126,3485,0,0
+1712513004323,3481,GET Get Product,200,OK,API Group 1-7,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123127,3481,0,0
+1712513003857,3960,POST  Create Product,201,Created,API Group 1-3,text,true,,665,25993,10,10,https://market-final-project.binaracademy.org/seller/product,3960,0,0
+1712513007804,3020,GET Fetch Products,200,OK,API Group 1-7,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,3020,0,0
+1712513007608,3223,GET Fetch Order by id,200,OK,API Group 1-10,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64115,3223,0,0
+1712513007590,3259,GET Fetch Order by id,200,OK,API Group 1-8,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64114,3259,0,0
+1712513007588,3277,GET Fetch Orders,200,OK,API Group 1-2,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,3277,0,0
+1712513004323,6550,POST Create Order,201,Created,API Group 1-9,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,6550,0,0
+1712513007583,3305,GET Fetch Orders,200,OK,API Group 1-5,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,3305,0,0
+1712513010825,227,GET Fetch Product by id,200,OK,API Group 1-7,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123127,227,0,0
+1712513007804,3254,GET Fetch Products,200,OK,API Group 1-1,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,3254,0,0
+1712513007309,3758,POST Create Order,201,Created,API Group 1-6,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3758,0,0
+1712513007578,3655,POST  Create Product,201,Created,API Group 1-4,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,3655,0,0
+1712513011057,220,GET Fetch Product by id,200,OK,API Group 1-1,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123126,220,0,0
+1712513010864,424,GET Fetch Order by id,200,OK,API Group 1-2,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64117,424,0,0
+1712513010888,404,GET Fetch Order by id,200,OK,API Group 1-5,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64116,404,0,0
+1712513010872,474,GET Fetch Orders,200,OK,API Group 1-9,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,474,0,0
+1712513010830,524,PUT Edit Order by id,200,OK,API Group 1-10,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64115,524,0,0
+1712513007817,4604,GET List Product,200,OK,API Group 1-3,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4604,0,0
+1712513011066,3858,GET Fetch Orders,200,OK,API Group 1-6,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,3858,0,63
+1712513010848,4076,PUT Edit Order by id,200,OK,API Group 1-8,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64114,4076,0,0
+1712513011346,3585,GET Fetch Order by id,200,OK,API Group 1-9,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64118,3585,0,0
+1712513011232,3826,GET List Product,200,OK,API Group 1-4,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3826,0,0
+1712513011288,3775,PUT Edit Order by id,200,OK,API Group 1-2,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64117,3775,0,0
+1712513011292,3773,PUT Edit Order by id,200,OK,API Group 1-5,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64116,3773,0,65
+1712513011052,4019,POST Create Order,201,Created,API Group 1-7,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,4019,0,0
+1712513011277,3795,POST Create Order,201,Created,API Group 1-1,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3795,0,0
+1712513012420,2667,GET Get Product,200,OK,API Group 1-3,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123128,2667,0,0
+1712513011354,3759,DEL Delete Product,200,OK,API Group 1-10,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123121,3759,0,0
+1712513014925,547,GET Fetch Order by id,200,OK,API Group 1-6,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64119,547,0,0
+1712513015072,418,GET Fetch Orders,200,OK,API Group 1-7,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,418,0,0
+1712513015073,418,GET Fetch Orders,200,OK,API Group 1-1,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,418,0,0
+1712513015088,1498,GET Fetch Products,200,OK,API Group 1-3,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1498,0,0
+1712513015060,1527,GET Get Product,200,OK,API Group 1-4,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123129,1527,0,0
+1712513015114,1480,POST Register,201,Created,API Group 1-10,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,1480,0,187
+1712513014932,1869,PUT Edit Order by id,200,OK,API Group 1-9,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64118,1869,0,154
+1712513014925,1900,DEL Delete Product,200,OK,API Group 1-8,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123120,1900,0,128
+1712513016586,255,GET Fetch Product by id,200,OK,API Group 1-3,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123128,255,0,0
+1712513015064,1788,DEL Delete Product,200,OK,API Group 1-2,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123123,1788,0,68
+1712513015067,1795,DEL Delete Product,200,OK,API Group 1-5,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123122,1795,0,0
+1712513015490,1378,GET Fetch Order by id,200,OK,API Group 1-7,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64120,1378,0,0
+1712513015491,1378,GET Fetch Order by id,200,OK,API Group 1-1,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64121,1378,0,0
+1712513016594,514,POST Login,201,Created,API Group 1-10,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,514,0,0
+1712513016587,984,GET Fetch Products,200,OK,API Group 1-4,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,984,0,0
+1712513016826,1019,POST Register,201,Created,API Group 1-8,text,true,,582,1339,10,10,https://market-final-project.binaracademy.org/auth/register,1019,0,0
+1712513016853,1473,POST Register,201,Created,API Group 1-2,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,1473,0,0
+1712513016863,1470,POST Register,201,Created,API Group 1-5,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,1470,0,0
+1712513015472,2870,PUT Edit Order by id,200,OK,API Group 1-6,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64119,2870,0,0
+1712513017571,805,GET Fetch Product by id,200,OK,API Group 1-4,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123129,805,0,230
+1712513017845,975,POST Login,201,Created,API Group 1-8,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,975,0,0
+1712513018326,762,POST Login,201,Created,API Group 1-2,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,762,0,0
+1712513018333,1218,POST Login,201,Created,API Group 1-5,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1218,0,0
+1712513016801,3307,DEL Delete Product,200,OK,API Group 1-9,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123124,3307,0,0
+1712513016841,3268,POST Create Order,201,Created,API Group 1-3,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3267,0,0
+1712513016868,3244,PUT Edit Order by id,200,OK,API Group 1-7,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64120,3244,0,0
+1712513016869,3434,PUT Edit Order by id,200,OK,API Group 1-1,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64121,3434,0,65
+1712513017108,4232,POST  Create Product,201,Created,API Group 1-10,text,true,,665,26057,10,10,https://market-final-project.binaracademy.org/seller/product,4232,0,0
+1712513020108,7064,POST Register,201,Created,API Group 1-9,text,true,,582,1387,10,10,https://market-final-project.binaracademy.org/auth/register,7064,0,0
+1712513018342,8838,DEL Delete Product,200,OK,API Group 1-6,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123125,8838,0,0
+1712513018819,8364,POST  Create Product,201,Created,API Group 1-8,text,true,,665,26065,10,10,https://market-final-project.binaracademy.org/seller/product,8364,0,0
+1712513019087,8116,POST  Create Product,201,Created,API Group 1-2,text,true,,665,26041,10,10,https://market-final-project.binaracademy.org/seller/product,8116,0,0
+1712513020108,7192,GET Fetch Orders,200,OK,API Group 1-3,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,7192,0,226
+1712513018377,8927,POST Create Order,201,Created,API Group 1-4,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,8927,0,0
+1712513019550,7760,POST  Create Product,201,Created,API Group 1-5,text,true,,665,26025,10,10,https://market-final-project.binaracademy.org/seller/product,7760,0,0
+1712513027173,5389,POST Login,201,Created,API Group 1-9,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,5389,0,0
+1712513021339,11509,GET List Product,200,OK,API Group 1-10,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,11509,0,0
+1712513027180,7983,POST Register,201,Created,API Group 1-6,text,true,,582,1403,10,10,https://market-final-project.binaracademy.org/auth/register,7983,0,0
+1712513027302,7870,GET Fetch Order by id,200,OK,API Group 1-3,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64122,7870,0,0
+1712513020111,15061,DEL Delete Product,200,OK,API Group 1-7,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123127,15061,0,228
+1712513020302,14887,DEL Delete Product,200,OK,API Group 1-1,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123126,14887,0,0
+1712513027304,7907,GET Fetch Orders,200,OK,API Group 1-4,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,7907,0,0
+1712513027311,9302,GET List Product,200,OK,API Group 1-5,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,9302,0,0
+1712513027204,9411,GET List Product,200,OK,API Group 1-2,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,9411,0,0
+1712513027184,9435,GET List Product,200,OK,API Group 1-8,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,9435,0,0
+1712513035162,1729,POST Login,201,Created,API Group 1-6,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,1729,0,0
+1712513035172,3937,POST Register,201,Created,API Group 1-7,text,true,,582,1331,10,10,https://market-final-project.binaracademy.org/auth/register,3937,0,0
+1712513035189,3920,POST Register,201,Created,API Group 1-1,text,true,,582,1395,10,10,https://market-final-project.binaracademy.org/auth/register,3920,0,0
+1712513035211,3899,GET Fetch Order by id,200,OK,API Group 1-4,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64123,3899,0,0
+1712513032848,6274,GET Get Product,200,OK,API Group 1-10,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123130,6274,0,0
+1712513032562,6574,POST  Create Product,201,Created,API Group 1-9,text,true,,665,26057,10,10,https://market-final-project.binaracademy.org/seller/product,6574,0,0
+1712513035171,3970,PUT Edit Order by id,200,OK,API Group 1-3,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64122,3970,0,0
+1712513039110,3254,POST Login,201,Created,API Group 1-1,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3254,0,0
+1712513039110,3524,POST Login,201,Created,API Group 1-7,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,3524,0,0
+1712513039122,3516,GET Fetch Products,200,OK,API Group 1-10,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,3516,0,0
+1712513036615,6058,GET Get Product,200,OK,API Group 1-2,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123132,6058,0,0
+1712513036618,6244,GET Get Product,200,OK,API Group 1-8,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123131,6244,0,0
+1712513036612,6253,GET Get Product,200,OK,API Group 1-5,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123133,6253,0,0
+1712513039137,3733,GET List Product,200,OK,API Group 1-9,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,3733,0,0
+1712513036891,10357,POST  Create Product,201,Created,API Group 1-6,text,true,,665,26049,10,10,https://market-final-project.binaracademy.org/seller/product,10357,0,0
+1712513039111,8251,PUT Edit Order by id,200,OK,API Group 1-4,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64123,8251,0,0
+1712513039141,8221,DEL Delete Product,200,OK,API Group 1-3,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123128,8221,0,0
+1712513042638,4730,GET Fetch Product by id,200,OK,API Group 1-10,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123130,4730,0,0
+1712513042673,4760,GET Fetch Products,200,OK,API Group 1-2,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,4760,0,0
+1712513042865,7521,GET Fetch Products,200,OK,API Group 1-5,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,7521,0,0
+1712513042862,7526,GET Fetch Products,200,OK,API Group 1-8,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,7526,0,0
+1712513042366,8023,POST  Create Product,201,Created,API Group 1-1,text,true,,665,26073,10,10,https://market-final-project.binaracademy.org/seller/product,8023,0,0
+1712513047433,3790,GET Fetch Product by id,200,OK,API Group 1-2,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123132,3790,0,0
+1712513047249,4398,GET List Product,200,OK,API Group 1-6,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4398,0,0
+1712513047363,4290,POST Register,201,Created,API Group 1-3,text,true,,582,1411,10,10,https://market-final-project.binaracademy.org/auth/register,4290,0,0
+1712513042871,8785,GET Get Product,200,OK,API Group 1-9,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123134,8785,0,0
+1712513042634,12111,POST  Create Product,201,Created,API Group 1-7,text,true,,665,26073,10,10,https://market-final-project.binaracademy.org/seller/product,12111,0,0
+1712513050386,4482,GET Fetch Product by id,200,OK,API Group 1-5,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123133,4482,0,0
+1712513050388,4484,GET Fetch Product by id,200,OK,API Group 1-8,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123131,4484,0,0
+1712513050389,4499,GET List Product,200,OK,API Group 1-1,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4499,0,0
+1712513047362,8649,DEL Delete Product,200,OK,API Group 1-4,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123129,8649,0,0
+1712513047368,8655,POST Create Order,201,Created,API Group 1-10,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,8655,0,0
+1712513051647,4515,GET Get Product,200,OK,API Group 1-6,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123135,4515,0,0
+1712513051654,4736,POST Login,201,Created,API Group 1-3,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,4736,0,0
+1712513051656,4742,GET Fetch Products,200,OK,API Group 1-9,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,4742,0,0
+1712513054746,1867,GET List Product,200,OK,API Group 1-7,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,1867,0,0
+1712513056162,745,GET Fetch Products,200,OK,API Group 1-6,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,745,0,0
+1712513051223,5686,POST Create Order,201,Created,API Group 1-2,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,5686,0,0
+1712513056011,2118,POST Register,201,Created,API Group 1-4,text,true,,582,1387,10,10,https://market-final-project.binaracademy.org/auth/register,2118,0,0
+1712513056024,2108,GET Fetch Orders,200,OK,API Group 1-10,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,2108,0,0
+1712513054888,3247,GET Get Product,200,OK,API Group 1-1,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123136,3247,0,0
+1712513054872,3273,POST Create Order,201,Created,API Group 1-8,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3273,0,0
+1712513056399,1777,GET Fetch Product by id,200,OK,API Group 1-9,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123134,1777,0,0
+1712513056907,1281,GET Fetch Product by id,200,OK,API Group 1-6,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123135,1281,0,0
+1712513058130,505,POST Login,201,Created,API Group 1-4,text,true,,501,266,10,10,https://market-final-project.binaracademy.org/auth/login,505,0,0
+1712513058135,505,GET Fetch Products,200,OK,API Group 1-1,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,505,0,0
+1712513054868,3775,POST Create Order,201,Created,API Group 1-5,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3774,0,0
+1712513056909,2240,GET Fetch Orders,200,OK,API Group 1-2,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,2240,0,0
+1712513058132,1020,GET Fetch Order by id,200,OK,API Group 1-10,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64124,1020,0,0
+1712513058145,1009,GET Fetch Orders,200,OK,API Group 1-8,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1009,0,0
+1712513056614,2556,GET Get Product,200,OK,API Group 1-7,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123137,2556,0,0
+1712513056391,2972,POST  Create Product,201,Created,API Group 1-3,text,true,,665,26041,10,10,https://market-final-project.binaracademy.org/seller/product,2972,0,0
+1712513058640,1239,GET Fetch Product by id,200,OK,API Group 1-1,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123136,1239,0,0
+1712513058643,1238,GET Fetch Orders,200,OK,API Group 1-5,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1238,0,0
+1712513059170,3568,GET Fetch Products,200,OK,API Group 1-7,text,true,,2221,235,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,3568,0,0
+1712513059154,3596,GET Fetch Order by id,200,OK,API Group 1-8,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64126,3596,0,0
+1712513059149,3711,GET Fetch Order by id,200,OK,API Group 1-2,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64125,3711,0,0
+1712513058635,4241,POST  Create Product,201,Created,API Group 1-4,text,true,,665,26025,10,10,https://market-final-project.binaracademy.org/seller/product,4241,0,0
+1712513058188,4697,POST Create Order,201,Created,API Group 1-6,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,4697,0,0
+1712513058176,4716,POST Create Order,201,Created,API Group 1-9,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,4716,0,0
+1712513062738,204,GET Fetch Product by id,200,OK,API Group 1-7,text,true,,869,187,10,10,https://market-final-project.binaracademy.org/buyer/product/123137,204,0,0
+1712513059152,3801,PUT Edit Order by id,200,OK,API Group 1-10,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64124,3801,0,0
+1712513059363,6501,GET List Product,200,OK,API Group 1-3,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,6501,0,0
+1712513059881,7008,GET Fetch Order by id,200,OK,API Group 1-5,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64127,7008,0,0
+1712513062885,4012,GET Fetch Orders,200,OK,API Group 1-6,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,4012,0,0
+1712513062892,4010,GET Fetch Orders,200,OK,API Group 1-9,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,4010,0,0
+1712513062876,4239,GET List Product,200,OK,API Group 1-4,text,true,,706,344,10,10,https://market-final-project.binaracademy.org/seller/product,4239,0,0
+1712513062860,4267,PUT Edit Order by id,200,OK,API Group 1-2,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64125,4267,0,0
+1712513059879,7259,POST Create Order,201,Created,API Group 1-1,text,true,,700,415,10,10,https://market-final-project.binaracademy.org/buyer/order,7259,0,0
+1712513062750,4393,PUT Edit Order by id,200,OK,API Group 1-8,text,true,,694,394,10,10,https://market-final-project.binaracademy.org/buyer/order/64126,4393,0,0
+1712513065864,1384,GET Get Product,200,OK,API Group 1-3,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123138,1384,0,0
+1712513066902,1713,GET Fetch Order by id,200,OK,API Group 1-9,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64129,1713,0,0
+1712513067138,1480,GET Fetch Orders,200,OK,API Group 1-1,text,true,,1279,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1480,0,0
+1712513066897,1721,GET Fetch Order by id,200,OK,API Group 1-6,text,true,,1277,347,10,10,https://market-final-project.binaracademy.org/buyer/order/64128,1721,0,0
+1712513067115,1539,GET Get Product,200,OK,API Group 1-4,text,true,,704,351,10,10,https://market-final-project.binaracademy.org/seller/product/123139,1539,0,0
+1712513062954,5713,DEL Delete Product,200,OK,API Group 1-10,text,true,,312,373,10,10,https://market-final-project.binaracademy.org/seller/product/123130,5713,0,0
+1712513062942,5892,POST Create Order,201,Created,API Group 1-7,text,true,,700,415,9,9,https://market-final-project.binaracademy.org/buyer/order,5892,0,0
+1712513068619,251,GET Fetch Order by id,200,OK,API Group 1-1,text,true,,1277,347,9,9,https://market-final-project.binaracademy.org/buyer/order/64130,251,0,0
+1712513066889,1983,PUT Edit Order by id,200,OK,API Group 1-5,text,true,,694,394,9,9,https://market-final-project.binaracademy.org/buyer/order/64127,1983,0,0
+1712513067128,1761,DEL Delete Product,200,OK,API Group 1-2,text,true,,312,373,9,9,https://market-final-project.binaracademy.org/seller/product/123132,1761,0,0
+1712513067143,1763,DEL Delete Product,200,OK,API Group 1-8,text,true,,312,373,8,8,https://market-final-project.binaracademy.org/seller/product/123131,1763,0,0
+1712513067249,1828,GET Fetch Products,200,OK,API Group 1-3,text,true,,2221,235,7,7,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,1828,0,0
+1712513068836,277,GET Fetch Orders,200,OK,API Group 1-7,text,true,,1279,341,7,7,https://market-final-project.binaracademy.org/buyer/order,277,0,0
+1712513068616,536,PUT Edit Order by id,200,OK,API Group 1-9,text,true,,694,394,7,7,https://market-final-project.binaracademy.org/buyer/order/64129,536,0,0
+1712513068620,535,PUT Edit Order by id,200,OK,API Group 1-6,text,true,,694,394,7,7,https://market-final-project.binaracademy.org/buyer/order/64128,535,0,0
+1712513069078,89,GET Fetch Product by id,200,OK,API Group 1-3,text,true,,869,187,7,7,https://market-final-project.binaracademy.org/buyer/product/123138,89,0,0
+1712513068870,310,PUT Edit Order by id,200,OK,API Group 1-1,text,true,,694,394,7,7,https://market-final-project.binaracademy.org/buyer/order/64130,310,0,0
+1712513068655,641,GET Fetch Products,200,OK,API Group 1-4,text,true,,2221,235,7,7,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=laptopp&page=1&per_page=5,641,0,0
+1712513068873,455,DEL Delete Product,200,OK,API Group 1-5,text,true,,312,373,7,7,https://market-final-project.binaracademy.org/seller/product/123133,455,0,0
+1712513069113,229,GET Fetch Order by id,200,OK,API Group 1-7,text,true,,1277,347,6,6,https://market-final-project.binaracademy.org/buyer/order/64131,229,0,0
+1712513069297,143,GET Fetch Product by id,200,OK,API Group 1-4,text,true,,869,187,6,6,https://market-final-project.binaracademy.org/buyer/product/123139,143,0,0
+1712513069152,339,DEL Delete Product,200,OK,API Group 1-9,text,true,,312,373,6,6,https://market-final-project.binaracademy.org/seller/product/123134,339,0,0
+1712513069167,378,POST Create Order,201,Created,API Group 1-3,text,true,,700,415,5,5,https://market-final-project.binaracademy.org/buyer/order,378,0,0
+1712513069342,213,PUT Edit Order by id,200,OK,API Group 1-7,text,true,,694,394,5,5,https://market-final-project.binaracademy.org/buyer/order/64131,213,0,0
+1712513069155,413,DEL Delete Product,200,OK,API Group 1-6,text,true,,312,373,5,5,https://market-final-project.binaracademy.org/seller/product/123135,413,0,0
+1712513069181,398,DEL Delete Product,200,OK,API Group 1-1,text,true,,312,373,4,4,https://market-final-project.binaracademy.org/seller/product/123136,398,0,0
+1712513069440,182,POST Create Order,201,Created,API Group 1-4,text,true,,700,415,3,3,https://market-final-project.binaracademy.org/buyer/order,182,0,0
+1712513069546,146,GET Fetch Orders,200,OK,API Group 1-3,text,true,,1279,341,3,3,https://market-final-project.binaracademy.org/buyer/order,146,0,0
+1712513069622,148,GET Fetch Orders,200,OK,API Group 1-4,text,true,,1279,341,3,3,https://market-final-project.binaracademy.org/buyer/order,148,0,0
+1712513069555,234,DEL Delete Product,200,OK,API Group 1-7,text,true,,312,373,3,3,https://market-final-project.binaracademy.org/seller/product/123137,234,0,0
+1712513069693,102,GET Fetch Order by id,200,OK,API Group 1-3,text,true,,1277,347,2,2,https://market-final-project.binaracademy.org/buyer/order/64132,102,0,0
+1712513069770,114,GET Fetch Order by id,200,OK,API Group 1-4,text,true,,1277,347,2,2,https://market-final-project.binaracademy.org/buyer/order/64133,114,0,0
+1712513069795,117,PUT Edit Order by id,200,OK,API Group 1-3,text,true,,694,394,2,2,https://market-final-project.binaracademy.org/buyer/order/64132,117,0,0
+1712513069884,120,PUT Edit Order by id,200,OK,API Group 1-4,text,true,,694,394,2,2,https://market-final-project.binaracademy.org/buyer/order/64133,120,0,0
+1712513069912,151,DEL Delete Product,200,OK,API Group 1-3,text,true,,312,373,2,2,https://market-final-project.binaracademy.org/seller/product/123138,151,0,0
+1712513070004,113,DEL Delete Product,200,OK,API Group 1-4,text,true,,312,373,1,1,https://market-final-project.binaracademy.org/seller/product/123139,113,0,0
