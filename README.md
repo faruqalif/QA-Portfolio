@@ -27,6 +27,7 @@ I like working in a structured way, clear communication, and good documentation 
 ## 📁 Repository Structure
 
 📦 QA-Portfolio
+
 ├── JMeter_Performance-Testing/ # Performance testing examples
 
 ├── Katalon_Automation-Testing/ # Simple automation examples
@@ -49,8 +50,6 @@ I like working in a structured way, clear communication, and good documentation 
 - Some real testing examples
 - Positive and negative testing
 
----
-
 ### ✔️ Bug Report
 - Written in simple and professional format  
 - Includes:
@@ -59,20 +58,14 @@ I like working in a structured way, clear communication, and good documentation 
   - Expected vs Actual result  
   - Severity & Priority  
 
----
-
 ### ✔️ API Testing
 - Postman collection examples
 - Request and response results
 - Different test data scenarios
 
----
-
 ### ✔️ Automation Testing (Basic)
 - Simple automation scripts using Katalon
 - Shows basic understanding of automation concepts
-
----
 
 ### ✔️ Performance Testing (Basic)
 - JMeter setup examples
@@ -118,7 +111,6 @@ If you want to connect or give feedback:
 📧 Email: faruqalif11@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/faruq-alif
 
----
 
 Thank you for visiting my portfolio! 🙌  
 I hope this can show how I work as a QA Engineer.
