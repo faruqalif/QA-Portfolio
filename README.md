@@ -28,10 +28,15 @@ I like working in a structured way, clear communication, and good documentation 
 
 📦 QA-Portfolio
 ├── JMeter_Performance-Testing/ # Performance testing examples
+
 ├── Katalon_Automation-Testing/ # Simple automation examples
+
 ├── Postman_API-Testing/ # API testing collection
+
 ├── Bug-Report.pdf # Example bug report
+
 ├── Test-Scenario-and-Test-Case.xlsx # Test scenarios and test cases
+
 └── README.md
 
 ---
