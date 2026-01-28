@@ -15,9 +15,9 @@
 | Test Case ID | Title | Type | Preconditions | Test Steps | Test Data | Expected Result | Status | Bug ID |
 |--------------|-------|------|---------------|------------|-----------|-----------------|--------|--------|
 | TC-WEB-PROFILE-001 | Phone number field accepts numeric characters only | Negative | User is logged in | 1. Open profile page<br>2. Open **Complete Account Information**<br>3. Enter letters/symbols in phone number<br>4. Click **Save** | Phone: abc@123 | System rejects non-numeric input | Fail | SH-WEB-BUG-002 |
-| TC-WEB-PROFILE-004 | Name field accepts alphabetic characters only | Negative | User is logged in | 1. Open profile page<br>2. Enter symbols in name field<br>3. Click **Save** | Name: @@@### | Validation message is displayed | Fail | SH-WEB-BUG-009 |
 | TC-WEB-PROFILE-002 | Error shown when uploading profile photo >1MB | Negative | User is logged in | 1. Open profile page<br>2. Upload image >1MB<br>3. Click **Save** | Image size: >1MB | Error message about file size is displayed | Fail | SH-WEB-BUG-003 |
 | TC-WEB-PROFILE-003 | Profile photo is displayed correctly on homepage | UI | User is logged in | 1. Login to system<br>2. Observe profile photo on homepage | Valid profile photo | Photo is displayed without cropping | Fail | SH-WEB-BUG-004 |
+| TC-WEB-PROFILE-004 | Name field accepts alphabetic characters only | Negative | User is logged in | 1. Open profile page<br>2. Enter symbols in name field<br>3. Click **Save** | Name: @@@### | Validation message is displayed | Fail | SH-WEB-BUG-009 |
 
 ---
 
@@ -34,7 +34,6 @@
 ---
 
 ## 📄 Module: Product Detail Page  
-**TS-WEB-PDP-001 — Verify product detail page loads correctly when product has no image**
 
 | Test Case ID | Title | Type | Preconditions | Test Steps | Test Data | Expected Result | Status | Bug ID |
 |--------------|-------|------|---------------|------------|-----------|-----------------|--------|--------|
