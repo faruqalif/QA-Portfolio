@@ -13,7 +13,7 @@ Web Application
 ## Environment
 - Application: SecondHand Web
 - Browser: Microsoft Edge
-- OS: Windows 11
+- OS: Windows 10
 
 ## Description
 The phone number field allows alphabetic and special characters to be entered.

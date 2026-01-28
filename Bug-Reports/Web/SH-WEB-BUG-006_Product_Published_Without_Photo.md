@@ -13,7 +13,7 @@ Web Application
 ## Environment
 - Application: SecondHand Web
 - Browser: Microsoft Edge
-- OS: Windows 11
+- OS: Windows 10
 
 ## Description
 Seller is able to publish a product without uploading any product photos.

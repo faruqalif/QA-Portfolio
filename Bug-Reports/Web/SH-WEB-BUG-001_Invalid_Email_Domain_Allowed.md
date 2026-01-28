@@ -13,7 +13,7 @@ Web Application
 ## Environment
 - Application: SecondHand Web
 - Browser: Microsoft Edge
-- OS: Windows 11
+- OS: Windows 10
 
 ## Description
 The system allows users to register using an email address with an invalid domain (e.g. faruq@g).

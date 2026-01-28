@@ -13,7 +13,7 @@ Web Application
 ## Environment
 - Application: SecondHand Web
 - Browser: Microsoft Edge
-- OS: Windows 11
+- OS: Windows 10
 
 ## Description
 User profile photo appears cropped on the homepage after login.
