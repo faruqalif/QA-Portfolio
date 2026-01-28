@@ -44,6 +44,13 @@ Verify system rejects product publishing with negative price
 
 ---
 
+## Module: Product Detail Page
+
+**TS-WEB-PDP-001**
+Verify product detail page loads correctly when product has no image
+
+---
+
 ## Module: Negotiation
 
 **TS-WEB-NEGOTIATION-001**
@@ -51,10 +58,3 @@ Verify negotiation price input has maximum digit limit
 
 **TS-WEB-NEGOTIATION-002**
 Verify system rejects negative negotiation price
-
----
-
-## Module: Product Detail Page
-
-**TS-WEB-PDP-001**
-Verify product detail page loads correctly when product has no image
