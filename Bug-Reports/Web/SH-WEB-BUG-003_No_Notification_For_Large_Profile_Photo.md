@@ -47,4 +47,4 @@ Open
 Not Assigned
 
 ## Evidence
-![SH-WEB-BUG-003](Evidence/SH-WEB-BUG-003.webm)
+![SH-WEB-BUG-003](Evidence/SH-WEB-BUG-003.gif)
